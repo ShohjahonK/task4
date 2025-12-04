@@ -1,0 +1,4574 @@
+---
+- :id: 21778
+  :title: 'Call of Duty: World at War'
+  :author: Elmer Parker
+  :genre: Mythopoeia
+  :publisher: Orion Books
+  :year: 2003
+- :id: 21374
+  :title: 'WarioWare: Touched!'
+  :author: Ms. Kami Prosacco
+  :genre: Mythology
+  :publisher: St. Martin's Press
+  :year: 1951
+- :id: 21457
+  :title: 'Titanic: Music from the Motion Picture'
+  :author: Zoila Christiansen
+  :genre: Historical fiction
+  :publisher: Farrar, Straus & Giroux
+  :year: 2009
+- :id: 21881
+  :title: 'Flashdance: Original Soundtrack from the Motion Picture'
+  :author: Joseph Raynor, Ja Ankunding II
+  :genre: Metafiction
+  :publisher: Pen and Sword Books
+  :year: 2024
+- :id: 21446
+  :title: Riot!
+  :author: Louanne Cruickshank
+  :genre: Mystery
+  :publisher: Bellevue Literary Press
+  :year: 1987
+- :id: 22052
+  :title: Cidade de Deus
+  :author: Johnny Russel
+  :genre: Reference book
+  :publisher: Gay Men's Press
+  :year: 1979
+- :id: 21952
+  :title: The Yellow Meads of Asphodel
+  :author: Teresia Fisher
+  :genre: Mystery
+  :publisher: Black Library
+  :year: 2000
+- :id: 21583
+  :title: Citizen Kane
+  :author: Sen. Jackson Gutmann, Shelby Willms IV
+  :genre: Suspense/Thriller
+  :publisher: University of Chicago Press
+  :year: 1884
+- :id: 21936
+  :title: Quo Vadis
+  :author: Sue Stark
+  :genre: Fairy tale
+  :publisher: Gefen Publishing House
+  :year: 2019
+- :id: 21969
+  :title: Left 4 Dead
+  :author: Msgr. Marjorie Koepp
+  :genre: Horror
+  :publisher: Medknow Publications
+  :year: 2013
+- :id: 21605
+  :title: The Usual Suspects
+  :author: Dianne Jakubowski, Cheree Welch
+  :genre: Mystery
+  :publisher: Fairview Press
+  :year: 1999
+- :id: 21975
+  :title: Pokémon Omega Ruby
+  :author: Kirsten Schaefer
+  :genre: Fantasy
+  :publisher: Hay House
+  :year: 1994
+- :id: 21513
+  :title: 'Counter-Strike: Source'
+  :author: Tegan Runolfsdottir
+  :genre: Speech
+  :publisher: George Routledge & Sons
+  :year: 2001
+- :id: 21570
+  :title: 'Star Wars: Episode VIII – The Last Jedi'
+  :author: Refugio Zboncak PhD
+  :genre: Narrative nonfiction
+  :publisher: Tate Publishing & Enterprises
+  :year: 1913
+- :id: 21632
+  :title: Surprised by Joy
+  :author: Rico Zemlak
+  :genre: Tall tale
+  :publisher: Zed Books
+  :year: 1997
+- :id: 21359
+  :title: Mary and Max
+  :author: Deborah Grant, Roman Osinski Sr., Shanti Hand
+  :genre: Essay
+  :publisher: Harper & Row
+  :year: 1911
+- :id: 21788
+  :title: The Deer Hunter
+  :author: Richie Gislason
+  :genre: Fiction in verse
+  :publisher: Academic Press
+  :year: 2019
+- :id: 22004
+  :title: Gladiator
+  :author: Kristeen Kessler CPA
+  :genre: Fanfiction
+  :publisher: Macmillan Publishers
+  :year: 2010
+- :id: 21460
+  :title: Some Buried Caesar
+  :author: Adell Considine, Leana Feil, Sen. Vonnie Jerde
+  :genre: Realistic fiction
+  :publisher:
+  :year: 2010
+- :id: 22034
+  :title: Carrion Comfort
+  :author: Chara Morissette
+  :genre: Classic
+  :publisher: Edupedia Publications
+  :year: 2014
+- :id: 21640
+  :title: Perfect Dark
+  :author: Adelia Lind
+  :genre: Tall tale
+  :publisher: Penguin Books
+  :year: 2016
+- :id: 21763
+  :title: Inglourious Basterds
+  :author: Kylee Smith
+  :genre: Legend
+  :publisher: Gaspereau Press
+  :year: 1985
+- :id: 21783
+  :title: Fair Stood the Wind for France
+  :author: Raul Hoppe
+  :genre: Reference book
+  :publisher: Target Books
+  :year: 2024
+- :id: 21734
+  :title: The Way Through the Woods
+  :author: Felicita White DO
+  :genre: Fanfiction
+  :publisher: HarperCollins
+  :year: 1979
+- :id: 21996
+  :title: Gone with the Wind
+  :author: Sen. Jackson Gutmann
+  :genre: Classic
+  :publisher: Vintage Books
+  :year: 1995
+- :id: 21411
+  :title: Grim Fandango
+  :author: Amb. Nannie Labadie
+  :genre: Short story
+  :publisher: Heyday Books
+  :year: 2010
+- :id: 22055
+  :title: Beyond the Mexique Bay
+  :author: Reginia Weissnat, Miss Wade Lebsack
+  :genre: Classic
+  :publisher: Ballantine Books
+  :year: 1984
+- :id: 21551
+  :title: Snatch
+  :author: Rep. Vern Turcotte
+  :genre: Classic
+  :publisher: Shambhala Publications
+  :year: 2026
+- :id: 21296
+  :title: Forrest Gump
+  :author: Boris Schowalter CPA
+  :genre: Mythology
+  :publisher: " "
+  :year: 2002
+- :id: 21529
+  :title: Pale Kings and Princes
+  :author: Danilo Zieme
+  :genre: Narrative nonfiction
+  :publisher: Fearless Books
+  :year: 1900
+- :id: 21972
+  :title: Brothers in Arms
+  :author: Fletcher Upton
+  :genre: Science fiction
+  :publisher: New English Library
+  :year: 1998
+- :id: 21730
+  :title: Pokémon HeartGold
+  :author: Dominique Sipes
+  :genre: Metafiction
+  :publisher: Athabasca University Press
+  :year: 2013
+- :id: 21846
+  :title: Thief II
+  :author: Haywood Wyman
+  :genre: Tall tale
+  :publisher: Del Rey Books
+  :year: 2006
+- :id: 21608
+  :title: Inception
+  :author: Delois Koss, Sid Oberbrunner, Catrina Roob PhD
+  :genre: Historical fiction
+  :publisher: Gefen Publishing House
+  :year: 1997
+- :id: 21595
+  :title: Network
+  :author: Zackary Carter
+  :genre: Fairy tale
+  :publisher: Koren Publishers Jerusalem
+  :year: 1998
+- :id: 21395
+  :title: His Dark Materials
+  :author: Msgr. Mohammad Koelpin
+  :genre: Fiction in verse
+  :publisher: Bowes & Bowes
+  :year: 1989
+- :id: 21733
+  :title: Postern of Fate
+  :author: Amb. Amberly Beatty, Alysa Pouros Esq.
+  :genre: Reference book
+  :publisher: Gay Men's Press
+  :year: "\t"
+- :id: 21415
+  :title: The Matrix
+  :author: Carin Christiansen
+  :genre: Narrative nonfiction
+  :publisher: FabJob
+  :year: 1983
+- :id: 21507
+  :title: Spotlight
+  :author: Enrique Gislason, Sean Harvey III, Glenna Huel
+  :genre: Essay
+  :publisher: Addison-Wesley
+  :year: 1984
+- :id: 21818
+  :title: Pokémon Black 2
+  :author: Kasey Effertz
+  :genre: Folklore
+  :publisher: Pen and Sword Books
+  :year: 1989
+- :id: 21441
+  :title: The Godfather
+  :author: Edmundo Oberbrunner, Bernard Bayer, Amb. Elia Lebsack
+  :genre: Essay
+  :publisher: George Routledge & Sons
+  :year: 1937
+- :id: 21963
+  :title: A Catskill Eagle
+  :author: Anton Toy
+  :genre: Narrative nonfiction
+  :publisher: Atlas Press
+  :year: 2017
+- :id: 21726
+  :title: Touch of Evil
+  :author: Selena Schroeder, Roland Murray
+  :genre: Narrative nonfiction
+  :publisher: Ballantine Books
+  :year: 1988
+- :id: 21899
+  :title: Blood's a Rover
+  :author: Sean Kassulke, Rosann Wolf VM
+  :genre: Crime/Detective
+  :publisher: Felony & Mayhem Press
+  :year: 1976
+- :id: 21398
+  :title: Dead Poets Society
+  :author: Anton Toy, Tabetha Johnston
+  :genre: Fantasy
+  :publisher: Dedalus Books
+  :year: 2002
+- :id: 21302
+  :title: Stand by Me
+  :author: Emile Koepp DO
+  :genre: Fiction in verse
+  :publisher: Nauka
+  :year: 1992
+- :id: 21423
+  :title: Those Barren Leaves, Thrones, Dominations
+  :author: Freddie Weissnat
+  :genre: Metafiction
+  :publisher: Simon & Schuster
+  :year: 2018
+- :id: 21903
+  :title: The Far-Distant Oxus
+  :author: Cruz Abshire MD
+  :genre: Western
+  :publisher: UCL Press
+  :year: 1980
+- :id: 21918
+  :title: Number the Stars
+  :author: Candis Ledner Sr.
+  :genre: Humor
+  :publisher: Manning Publications
+  :year: 1976
+- :id: 21485
+  :title: Brütal Legend
+  :author: Abigail Reynolds
+  :genre: Suspense/Thriller
+  :publisher: Felony & Mayhem Press
+  :year: 1980
+- :id: 21617
+  :title: The Silence of the Lambs
+  :author: Dr. Pat Kunze
+  :genre: Mythology
+  :publisher: Eel Pie Publishing
+  :year: 1979
+- :id: 22036
+  :title: Mario Kart 8 Deluxe
+  :author: Shanelle Upton
+  :genre: Fantasy
+  :publisher: George Newnes
+  :year: 2017
+- :id: 21974
+  :title: Far From the Madding Crowd
+  :author: Matthew Boehm
+  :genre: Realistic fiction
+  :publisher: St. Martin's Press
+  :year: 2013
+- :id: 21868
+  :title: Spice
+  :author: Gov. Boyce Franecki, Odell Treutel
+  :genre: Fable
+  :publisher: Black Sparrow Books
+  :year: 1995
+- :id: 21386
+  :title: 'Doom 3: BFG'
+  :author: Lavon Langosh, Msgr. Juan Beer, Garth Heidenreich
+  :genre: Mystery
+  :publisher: Dedalus Books
+  :year: 1972
+- :id: 21531
+  :title: Whiplash
+  :author: Salvatore Mills
+  :genre: Horror
+  :publisher: Edupedia Publications
+  :year: 2008
+- :id: 22049
+  :title: Hotel California
+  :author: Farah Rohan II
+  :genre: Realistic fiction
+  :publisher: Black Library
+  :year: 1990
+- :id: 21871
+  :title: 'Banjo-Kazooie: Grunty''s Revenge'
+  :author: Karisa Kozey
+  :genre: Narrative nonfiction
+  :publisher: Eerdmans Publishing
+  :year: 1978
+- :id: 21920
+  :title: Casino
+  :author: Marlon Casper
+  :genre: Science fiction
+  :publisher: Harry N. Abrams, Inc.
+  :year: 1993
+- :id: 22005
+  :title: Life is Strange
+  :author: Era Hodkiewicz, Miss Bok Barrows, Jeffery Leuschke PhD
+  :genre: Western
+  :publisher: Del Rey Books
+  :year: 2021
+- :id: 21953
+  :title: The Witcher
+  :author: Bennett Raynor
+  :genre: Crime/Detective
+  :publisher: Pen and Sword Books
+  :year: 2018
+- :id: 21747
+  :title: Let Us Now Praise Famous Men
+  :author: Sook Halvorson
+  :genre: Speech
+  :publisher: Macmillan Publishers
+  :year: 1959
+- :id: 21869
+  :title: 'Call of Duty: Black Ops 4'
+  :author: Sanjuana Bernier
+  :genre: Science fiction
+  :publisher: United States Government Publishing Office
+  :year: 1991
+- :id: 21901
+  :title: Wildfire at Midnight
+  :author: Valery Schimmel
+  :genre: Humor
+  :publisher: Daedalus Publishing
+  :year: 2007
+- :id: 21618
+  :title: Pokémon Sun
+  :author: Miss Ward Farrell
+  :genre: Horror
+  :publisher: Hay House
+  :year: 2002
+- :id: 21827
+  :title: The Sixth Sense
+  :author: Mireya Schroeder
+  :genre: Realistic fiction
+  :publisher: Reed Elsevier
+  :year: 2002
+- :id: 21723
+  :title: Rush
+  :author: Billy Dare
+  :genre: Fairy tale
+  :publisher: Anvil Press Poetry
+  :year: 2011
+- :id: 22001
+  :title: Pokémon Sapphire
+  :author: Amb. Amberly Beatty
+  :genre: Fanfiction
+  :publisher: Golden Cockerel Press
+  :year: 1992
+- :id: 21495
+  :title: I Sing the Body Electric
+  :author: Hoyt Jacobson III
+  :genre: Textbook
+  :publisher: Hodder Headline
+  :year: 1996
+- :id: 21780
+  :title: Clannad
+  :author: Trevor Turner
+  :genre: Fiction in verse
+  :publisher: Mascot Books
+  :year: 2023
+- :id: 21921
+  :title: The Wizard of Oz
+  :author: Rocky Erdman
+  :genre: Comic/Graphic Novel
+  :publisher: Athabasca University Press
+  :year: 1984
+- :id: 21648
+  :title: 'Call of Duty: Modern Warfare 3'
+  :author: Alphonso Gulgowski, Josette Nikolaus DC, Mercedez Welch
+  :genre: Tall tale
+  :publisher: George Routledge & Sons
+  :year: 1843
+- :id: 21771
+  :title: Devil May Cry
+  :author: Bob Treutel DDS
+  :genre: Fiction in verse
+  :publisher: Cengage Learning
+  :year: 2024
+- :id: 21707
+  :title: The Departed
+  :author: Antonio Lindgren
+  :genre: Speech
+  :publisher: Vintage Books
+  :year: 2005
+- :id: 21684
+  :title: Mario Kart 7
+  :author: Benedict Steuber, Randal McCullough, Jon Hettinger DVM
+  :genre: Speech
+  :publisher: Ellora's Cave
+  :year: 2000
+- :id: 21469
+  :title: Wii Play
+  :author: Travis Von, Leighann O'Connell
+  :genre: Fable
+  :publisher: Haynes Manuals
+  :year: 1943
+- :id: 21655
+  :title: Come Away with Me
+  :author: Roman Koss, Sook Halvorson
+  :genre: Crime/Detective
+  :publisher: Pan Books
+  :year: 2013
+- :id: 21902
+  :title: Backstreet's Back
+  :author: Kizzie Purdy
+  :genre: Legend
+  :publisher: Book League of America
+  :year: 1997
+- :id: 21383
+  :title: 'The Lord of the Rings: The Fellowship of the Ring'
+  :author: Fredda Brekke, Vernice Emard, Dylan Upton
+  :genre: Metafiction
+  :publisher: Atlantic Books
+  :year: 2022
+- :id: 21699
+  :title: 'Star Wars: Episode IX – The Rise of Skywalker'
+  :author: Roman Koss, Sook Halvorson
+  :genre: Comic/Graphic Novel
+  :publisher: Ten Speed Press
+  :year: 2014
+- :id: 21298
+  :title: Princess Mononoke
+  :author: Rosann Wolf VM
+  :genre: Comic/Graphic Novel
+  :publisher: Hachette Book Group USA
+  :year: 1996
+- :id: 21773
+  :title: Shutter Island
+  :author: Kathey Gorczany
+  :genre: Fable
+  :publisher: Bloodaxe Books
+  :year: 1837
+- :id: 21914
+  :title: Mass Effect 2
+  :author: Prof. Augustus Konopelski
+  :genre: Legend
+  :publisher: E. P. Dutton
+  :year: 1945
+- :id: 21656
+  :title: To Say Nothing of the Dog
+  :author: Veronique Carter
+  :genre: Reference book
+  :publisher: Hamish Hamilton
+  :year: 1996
+- :id: 21767
+  :title: 12 Angry Men
+  :author: Coy Streich, Lela Emard, Keeley Hand
+  :genre: Realistic fiction
+  :publisher: 'NULL'
+  :year: 2021
+- :id: 21326
+  :title: 'Halo: Combat Evolved'
+  :author: Joana Botsford
+  :genre: Speech
+  :publisher: Nonesuch Press
+  :year: 2022
+- :id: 21859
+  :title: 'Legend: The Best of Bob Marley & The Wailers'
+  :author: Alec Ziemann
+  :genre: Essay
+  :publisher: ''
+  :year: 2023
+- :id: 21407
+  :title: The Torment of Others
+  :author: Reid Rice
+  :genre: Mythopoeia
+  :publisher: Airiti Press
+  :year: 1914
+- :id: 21721
+  :title: Beyond the Mexique Bay
+  :author: Reginia Weissnat, Miss Wade Lebsack
+  :genre: Classic
+  :publisher: Gefen Publishing House
+  :year: 1988
+- :id: 21538
+  :title: 'Command & Conquer 3: Tiberium Wars'
+  :author: Pedro Bradtke
+  :genre: Mythology
+  :publisher: Cisco Press
+  :year: 1979
+- :id: 21616
+  :title: 'Mario Kart: Double Dash'
+  :author: Mr. Dominque Becker
+  :genre: Realistic fiction
+  :publisher: Virago Press
+  :year: 2020
+- :id: 21904
+  :title: The Sting
+  :author: Alina Collier Esq.
+  :genre: Classic
+  :publisher: Caister Academic Press
+  :year: 1992
+- :id: 21653
+  :title: Blue Remembered Earth
+  :author: Joseph Raynor, Ja Ankunding II
+  :genre: Legend
+  :publisher: Eel Pie Publishing
+  :year: 1986
+- :id: 21739
+  :title: Quake
+  :author: Renee Rogahn, Merrill Marks
+  :genre: Realistic fiction
+  :publisher: Harcourt Trade Publishers
+  :year: 1981
+- :id: 21677
+  :title: Vanity Fair
+  :author: Elane Miller
+  :genre: Reference book
+  :publisher: Victor Gollancz Ltd
+  :year: 1993
+- :id: 21530
+  :title: Led Zeppelin IV
+  :author: Rocky Erdman, Curtis Rohan
+  :genre: Realistic fiction
+  :publisher: Tartarus Press
+  :year: 1990
+- :id: 21361
+  :title: Great Work of Time
+  :author: Laronda Kuhn
+  :genre: Crime/Detective
+  :publisher: J. M. Dent
+  :year: 1992
+- :id: 22002
+  :title: LittleBigPlanet
+  :author: Johnny Russel
+  :genre: Humor
+  :publisher: Library of America
+  :year: 2007
+- :id: 21568
+  :title: Overwatch
+  :author: Luigi Parker
+  :genre: Crime/Detective
+  :publisher: Imperial War Museum
+  :year: 1982
+- :id: 21384
+  :title: The Legend of Zelda
+  :author: Sook Halvorson, Roman Koss
+  :genre: Speech
+  :publisher: Victor Gollancz Ltd
+  :year: 1995
+- :id: 21714
+  :title: Wolfenstein 3D
+  :author: Elvina Nader
+  :genre: Biography/Autobiography
+  :publisher: University of Michigan Press
+  :year: 1995
+- :id: 21580
+  :title: Mr Standfast
+  :author: Sen. Leta Berge
+  :genre: Comic/Graphic Novel
+  :publisher: Chatto and Windus
+  :year: 2013
+- :id: 22014
+  :title: Mario Kart 64
+  :author: Jerald Raynor
+  :genre: Textbook
+  :publisher: Indiana University Press
+  :year: 1980
+- :id: 21692
+  :title: Just Cause 2
+  :author: Dr. Deb Kemmer
+  :genre: Realistic fiction
+  :publisher: Pen and Sword Books
+  :year: 1916
+- :id: 21519
+  :title: Greatest Hits
+  :author: Reuben Mayert
+  :genre: Classic
+  :publisher: Hackett Publishing Company
+  :year: 2015
+- :id: 21610
+  :title: Ring of Bright Water
+  :author: Timmy Corwin, Franklyn Stokes VM
+  :genre: Legend
+  :publisher: Horizon Scientific Press
+  :year: 1996
+- :id: 21471
+  :title: Call of Duty
+  :author: Myrtis Corwin
+  :genre: Narrative nonfiction
+  :publisher: HarperCollins
+  :year: 2026
+- :id: 22039
+  :title: '21'
+  :author: Lavon Langosh, Msgr. Juan Beer, Garth Heidenreich
+  :genre: Fairy tale
+  :publisher: Elsevier
+  :year: 2021
+- :id: 21785
+  :title: Oh! To be in England
+  :author: Amb. Nannie Labadie
+  :genre: Legend
+  :publisher: Indiana University Press
+  :year: 1985
+- :id: 21564
+  :title: Pokémon Diamond
+  :author: Sonny Bogan
+  :genre: Classic
+  :publisher: Marion Boyars Publishers
+  :year: 1979
+- :id: 21877
+  :title: 'Half-Life: Opposing Force'
+  :author: Anton Toy, Tabetha Johnston
+  :genre: Realistic fiction
+  :publisher: Ziff Davis Media
+  :year: 1987
+- :id: 21502
+  :title: The Shining
+  :author: Korey Rice V
+  :genre: Reference book
+  :publisher: Libertas Academica
+  :year: 1996
+- :id: 21347
+  :title: Blade Runner
+  :author: Zackary Carter
+  :genre: Suspense/Thriller
+  :publisher: Eel Pie Publishing
+  :year: 1987
+- :id: 21536
+  :title: Counter-Strike
+  :author: Pres. Donya West
+  :genre: Horror
+  :publisher: D. Appleton & Company
+  :year: 2004
+- :id: 21465
+  :title: Die Hard
+  :author: Rocky Erdman
+  :genre: Mystery
+  :publisher: Allen Ltd
+  :year: 2007
+- :id: 21343
+  :title: 'Halo 5: Guardians'
+  :author: Coy Streich, Keeley Hand, Lela Emard
+  :genre: Horror
+  :publisher: HarperCollins
+  :year: 1997
+- :id: 21861
+  :title: All About Eve
+  :author: Andreas Mohr
+  :genre: Textbook
+  :publisher: Felony & Mayhem Press
+  :year: 2001
+- :id: 21659
+  :title: Fortnite
+  :author: Norberto Kohler, Moshe Wilderman
+  :genre: Metafiction
+  :publisher: Newnes
+  :year: 1974
+- :id: 21824
+  :title: A Glass of Blessings
+  :author: Garth Marvin
+  :genre: Horror
+  :publisher: Holt McDougal
+  :year: 2022
+- :id: 21378
+  :title: The Wall
+  :author: Elliot Monahan
+  :genre: Speech
+  :publisher: Anvil Press Poetry
+  :year: 2024
+- :id: 21385
+  :title: Twelve Monkeys
+  :author: Earnest Glover
+  :genre: Mythology
+  :publisher: Mascot Books
+  :year: 1983
+- :id: 22042
+  :title: '25'
+  :author: Benjamin Mills
+  :genre: Fantasy
+  :publisher: Marshall Cavendish
+  :year: 1964
+- :id: 21435
+  :title: Super Mario World
+  :author: Jerry Cormier
+  :genre: Legend
+  :publisher: Bantam Books
+  :year: 1848
+- :id: 21545
+  :title: The Dark Side of the Moon
+  :author: Beverly McDermott, Pedro Bradtke
+  :genre: Tall tale
+  :publisher: Velazquez Press
+  :year: 1965
+- :id: 21665
+  :title: Back in Black
+  :author: Sen. Amber Roberts, Prof. Augustus Konopelski
+  :genre: Realistic fiction
+  :publisher: Etruscan Press
+  :year: 1992
+- :id: 21346
+  :title: Where Angels Fear to Tread
+  :author: Yesenia Raynor DDS, Hue Ondricka I, Lewis Boehm
+  :genre: Fantasy
+  :publisher: DAW Books
+  :year: 2024
+- :id: 21858
+  :title: It's a Battlefield
+  :author: Julius Barrows, Tamika Hayes
+  :genre: Legend
+  :publisher: Flame Tree Publishing
+  :year: 1982
+- :id: 21439
+  :title: The Cricket on the Hearth
+  :author: Josue Grady
+  :genre: Fiction in verse
+  :publisher: ECW Press
+  :year: 2025
+- :id: 21745
+  :title: Toy Story 3
+  :author: Msgr. Juan Beer, Garth Heidenreich, Lavon Langosh
+  :genre: Narrative nonfiction
+  :publisher: Harper & Row
+  :year: 1976
+- :id: 21577
+  :title: The Wolf of Wall Street
+  :author: Ozzie Jast
+  :genre: Fable
+  :publisher: Ignatius Press
+  :year: 1994
+- :id: 22057
+  :title: Consider Phlebas
+  :author: Matthew Boehm
+  :genre: Folklore
+  :publisher: Berkley Books
+  :year: -1
+- :id: 21759
+  :title: 'Call of Duty: Black Ops II'
+  :author: Benjamin Mills
+  :genre: Tall tale
+  :publisher: New Holland Publishers
+  :year: 1993
+- :id: 21808
+  :title: The Wings of the Dove
+  :author: Antione O'Reilly, Josette Nikolaus DC
+  :genre: Speech
+  :publisher: University of Chicago Press
+  :year: 1997
+- :id: 21351
+  :title: Team Fortress 2
+  :author: Jermaine Wehner
+  :genre: Legend
+  :publisher: Earthscan
+  :year: 1985
+- :id: 21364
+  :title: Gran Torino
+  :author: Jeffry Nolan Ret.
+  :genre: Mythology
+  :publisher: Bantam Spectra
+  :year: 0
+- :id: 21501
+  :title: A Summer Bird-Cage
+  :author: Leighann O'Connell
+  :genre: Humor
+  :publisher: Signet Books
+  :year: 1984
+- :id: 21319
+  :title: X&Y
+  :author: Caroyln Wilderman
+  :genre: Historical fiction
+  :publisher: Darakwon Press
+  :year: 2012
+- :id: 21688
+  :title: 'Halo 3: ODST'
+  :author: Dominque Fisher, Leigh Bednar
+  :genre: Fairy tale
+  :publisher: ECW Press
+  :year: 2012
+- :id: 21924
+  :title: The Wonderful 101
+  :author: Jerrold Bogan LLD
+  :genre: Horror
+  :publisher: Shire Books
+  :year: 2015
+- :id: 21543
+  :title: Wii Music
+  :author: Cleo Predovic
+  :genre: Historical fiction
+  :publisher: Kessinger Publishing
+  :year: 1990
+- :id: 21317
+  :title: The House of Mirth
+  :author: Elmer Parker, Mireya Schroeder
+  :genre: Fable
+  :publisher: St. Martin's Press
+  :year: 1990
+- :id: 21643
+  :title: Fight Club
+  :author: Latrina Kuphal
+  :genre: Narrative nonfiction
+  :publisher: Athabasca University Press
+  :year: 2011
+- :id: 22050
+  :title: 'WarioWare: Touched!'
+  :author: Ms. Kami Prosacco
+  :genre: Mythology
+  :publisher: Chatto and Windus
+  :year: 1976
+- :id: 21597
+  :title: Pokémon FireRed
+  :author: Timmy Corwin
+  :genre: Comic/Graphic Novel
+  :publisher: Victor Gollancz Ltd
+  :year: 2009
+- :id: 21693
+  :title: 'Wolfenstein 2: The New Colossus'
+  :author: Alec Ziemann
+  :genre: Mythopoeia
+  :publisher: Viking Press
+  :year: 2022
+- :id: 21875
+  :title: The Glory and the Dream
+  :author: Elvina Nader
+  :genre: Horror
+  :publisher: Sams Publishing
+  :year: 2024
+- :id: 21728
+  :title: The Heart Is a Lonely Hunter
+  :author: Rep. Bridgett Rosenbaum, Laureen Herzog, Charlsie Cummerata
+  :genre: Horror
+  :publisher: Booktrope
+  :year: 2019
+- :id: 21328
+  :title: The Millstone
+  :author: Reuben Mayert
+  :genre: Reference book
+  :publisher: Parachute Publishing
+  :year: 2023
+- :id: 21644
+  :title: Left 4 Dead 2
+  :author: Cruz Abshire MD
+  :genre: Mystery
+  :publisher: Pantheon Books at Random House
+  :year: 2000
+- :id: 21796
+  :title: A Time of Gifts
+  :author: Rico Zemlak
+  :genre: Comic/Graphic Novel
+  :publisher: Libertas Academica
+  :year: 1999
+- :id: 21662
+  :title: Pokémon Black
+  :author: Sen. Jackson Gutmann
+  :genre: Short story
+  :publisher: HarperTrophy
+  :year: 2023
+- :id: 21998
+  :title: Tender Is the Night
+  :author: Miss Wade Lebsack
+  :genre: Comic/Graphic Novel
+  :publisher: Pen and Sword Books
+  :year: 1980
+- :id: 21481
+  :title: Oldeuboi
+  :author: Ted Rutherford
+  :genre: Classic
+  :publisher: Eel Pie Publishing
+  :year: 0
+- :id: 21623
+  :title: Highway Blossoms
+  :author: Marlon Casper, Boyce Hoeger
+  :genre: Horror
+  :publisher: Banner of Truth Trust
+  :year: 2024
+- :id: 21795
+  :title: The Skull Beneath the Skin
+  :author: Kristeen Kessler CPA
+  :genre: Science fiction
+  :publisher: University of Alaska Press
+  :year: 2013
+- :id: 21633
+  :title: 'The Godfather: Part II'
+  :author: Miss Wade Lebsack
+  :genre: Suspense/Thriller
+  :publisher: Ian Allan Publishing
+  :year: 2008
+- :id: 21802
+  :title: Pokémon Shield
+  :author: Lonnie Hilpert
+  :genre: Mythology
+  :publisher: Chick Publications
+  :year: 2012
+- :id: 21744
+  :title: Bat Out of Hell
+  :author: Lawrence Hauck, Sean Kassulke
+  :genre: Realistic fiction
+  :publisher: Ellora's Cave
+  :year: 2011
+- :id: 21950
+  :title: L.A. Confidential
+  :author: Shirlene Toy
+  :genre: Comic/Graphic Novel
+  :publisher: Oberon Books
+  :year: 2005
+- :id: 21369
+  :title: Django Unchained
+  :author: Edmundo Oberbrunner, Bernard Bayer, Amb. Elia Lebsack
+  :genre: Science fiction
+  :publisher: Earthscan
+  :year: 1993
+- :id: 21306
+  :title: That Hideous Strength
+  :author: Rossana Cruickshank
+  :genre: Textbook
+  :publisher: Chambers Harrap
+  :year: 2008
+- :id: 21834
+  :title: Oops!... I Did It Again
+  :author: Mercedez Welch, Alphonso Gulgowski
+  :genre: Mystery
+  :publisher: Burns & Oates
+  :year: 2014
+- :id: 21700
+  :title: 'Star Wars: Episode VII - The Force Awakens'
+  :author: Gonzalo Macejkovic
+  :genre: Crime/Detective
+  :publisher: Felony & Mayhem Press
+  :year: 1985
+- :id: 21338
+  :title: Kingdom Hearts
+  :author: Reginia Weissnat
+  :genre: Textbook
+  :publisher: Carlton Publishing Group
+  :year: 1997
+- :id: 21522
+  :title: Stranger in a Strange Land
+  :author: Kasey Effertz
+  :genre: Folklore
+  :publisher: Carnegie Mellon University Press
+  :year: 2026
+- :id: 21375
+  :title: 'Command & Conquer: Red Alert 3'
+  :author: Tyson Beer
+  :genre: Science fiction
+  :publisher: Victor Gollancz Ltd
+  :year:
+- :id: 21357
+  :title: 3 Idiots
+  :author: Sen. Amber Roberts
+  :genre: Legend
+  :publisher: George Newnes
+  :year: -1
+- :id: 21927
+  :title: The Intouchables
+  :author: Curtis Rohan
+  :genre: Short story
+  :publisher: Nonesuch Press
+  :year: 1992
+- :id: 21509
+  :title: A Scanner Darkly
+  :author: Brandi Cole, Veronique Carter
+  :genre: Science fiction
+  :publisher: Pantheon Books at Random House
+  :year: 1966
+- :id: 21913
+  :title: Pokémon Gold
+  :author: Ted Rutherford
+  :genre: Speech
+  :publisher: Left Book Club
+  :year: 1978
+- :id: 21934
+  :title: 'Star Wars: Episode IV – A New Hope'
+  :author: Caroyln Wilderman
+  :genre: Narrative nonfiction
+  :publisher: Mascot Books
+  :year: 2000
+- :id: 21987
+  :title: 'Grease: The Original Soundtrack from the Motion Picture'
+  :author: Bob Treutel DDS
+  :genre: Science fiction
+  :publisher: Heyday Books
+  :year: 1993
+- :id: 21449
+  :title: Their Greatest Hits (1971–1975)
+  :author: Zoila Christiansen
+  :genre: Historical fiction
+  :publisher: Haynes Manuals
+  :year: 1991
+- :id: 21492
+  :title: What's Become of Waring
+  :author: Yuette Parker
+  :genre: Biography/Autobiography
+  :publisher: Pen and Sword Books
+  :year: 1985
+- :id: 21334
+  :title: Raiders of the Lost Ark
+  :author: Hoyt Jacobson III
+  :genre: Metafiction
+  :publisher: Newnes
+  :year: 2004
+- :id: 21882
+  :title: Super Mario Bros. 2
+  :author: Irmgard Bogan I
+  :genre: Comic/Graphic Novel
+  :publisher: Eel Pie Publishing
+  :year: 1976
+- :id: 22010
+  :title: In Dubious Battle
+  :author: Franklyn Stokes VM, Timmy Corwin
+  :genre: Fantasy
+  :publisher: Brimstone Press
+  :year: "\t"
+- :id: 21486
+  :title: Far Cry
+  :author: Nick Ziemann
+  :genre: Legend
+  :publisher: Zondervan
+  :year: 1986
+- :id: 21761
+  :title: 'Pokémon: Let''s Go Pikachu!'
+  :author: Selena Schroeder
+  :genre: Essay
+  :publisher: G. P. Putnam's Sons
+  :year: 2005
+- :id: 21760
+  :title: Super Smash Bros. Melee
+  :author: Edmundo Oberbrunner, Jerry Cormier, Bernard Bayer, Amb. Elia Lebsack
+  :genre: Fiction narrative
+  :publisher: Carcanet Press
+  :year: 1990
+- :id: 21774
+  :title: The World, the Flesh and the Devil
+  :author: Jeffery Leuschke PhD, Miss Bok Barrows, Era Hodkiewicz
+  :genre: Fantasy
+  :publisher: Applewood Books
+  :year: 1982
+- :id: 21833
+  :title: Kid Icarus
+  :author: Pedro Bradtke
+  :genre: Fantasy
+  :publisher: Schocken Books
+  :year: 2022
+- :id: 21948
+  :title: Endless Night
+  :author: Karisa Kozey
+  :genre: Mythology
+  :publisher: University of Minnesota Press
+  :year: 1957
+- :id: 21300
+  :title: 'Wolfenstein: The Old Blood'
+  :author: Kirk Treutel, Klara Runolfsdottir Sr., Lonnie Hilpert
+  :genre: Realistic fiction
+  :publisher: Emerald Group Publishing
+  :year: 1976
+- :id: 21297
+  :title: The Treasure of the Sierra Madre
+  :author: Brandi Cole
+  :genre: Short story
+  :publisher: G-Unit Books
+  :year: 1856
+- :id: 21484
+  :title: Mirror's Edge
+  :author: Antione O'Reilly, Josette Nikolaus DC
+  :genre: Humor
+  :publisher: Pavilion Books
+  :year: 1983
+- :id: 21938
+  :title: 'Half-Life 2: Episode Two'
+  :author: Richie Gislason
+  :genre: Essay
+  :publisher: Ladybird Books
+  :year: 1875
+- :id: 21476
+  :title: Super Smash Bros. Brawl
+  :author: Nick Ziemann
+  :genre: Essay
+  :publisher: BBC Books
+  :year: 2003
+- :id: 21613
+  :title: The Pianist
+  :author: Manuel Murray
+  :genre: Horror
+  :publisher: Academic Press
+  :year: 1989
+- :id: 21995
+  :title: Paper Moon
+  :author: Sean Kassulke, Rosann Wolf VM
+  :genre: Short story
+  :publisher: Charles Scribner's Sons
+  :year: 1991
+- :id: 21951
+  :title: 'Batman: Arkham City'
+  :author: Alina Collier Esq.
+  :genre: Fable
+  :publisher: Black Dog Publishing
+  :year: 1994
+- :id: 21956
+  :title: Portal 2
+  :author: Kylee Smith
+  :genre: Fanfiction
+  :publisher: Addison-Wesley
+  :year: 2005
+- :id: 21843
+  :title: This Side of Paradise
+  :author: Richie Gislason
+  :genre: Fairy tale
+  :publisher: Koren Publishers Jerusalem
+  :year: 1989
+- :id: 21779
+  :title: Sonic Unleashed
+  :author: Ms. Kami Prosacco
+  :genre: Humor
+  :publisher: Martinus Nijhoff Publishers
+  :year: 2009
+- :id: 21866
+  :title: No Highway
+  :author: Susannah Tremblay DC
+  :genre: Crime/Detective
+  :publisher: Tammi
+  :year: 1845
+- :id: 21694
+  :title: The Best Years of Our Lives
+  :author: Raymundo Aufderhar, Lamar Kautzer, Isabelle Boehm
+  :genre: Horror
+  :publisher: David & Charles
+  :year: 2009
+- :id: 21840
+  :title: Gandhi
+  :author: Carin Christiansen
+  :genre: Narrative nonfiction
+  :publisher: NavPress
+  :year: 1976
+- :id: 21980
+  :title: Come On Over
+  :author: Robby Powlowski
+  :genre: Fairy tale
+  :publisher: Koren Publishers Jerusalem
+  :year: 1994
+- :id: 21458
+  :title: The Mirror Crack'd from Side to Side
+  :author: Tabetha Johnston
+  :genre: Realistic fiction
+  :publisher: Mapin Publishing
+  :year: 1995
+- :id: 21986
+  :title: Pac-Man
+  :author: Clyde Jacobson
+  :genre: Fiction in verse
+  :publisher: Godwit Press
+  :year: " "
+- :id: 21537
+  :title: Mario Kart Wii
+  :author: Sen. Leta Berge
+  :genre: Reference book
+  :publisher: Darakwon Press
+  :year: 1843
+- :id: 21852
+  :title: Butter In a Lordly Dish
+  :author: Nick Ziemann
+  :genre: Fanfiction
+  :publisher: University of Alaska Press
+  :year: 2006
+- :id: 21830
+  :title: 'WarioWare: Touched!'
+  :author: Ms. Kami Prosacco
+  :genre: Mythology
+  :publisher: Gefen Publishing House
+  :year: 1972
+- :id: 21805
+  :title: Shall not Perish
+  :author: Ted Rutherford
+  :genre: Fable
+  :publisher:
+  :year: 1987
+- :id: 21806
+  :title: Metropolis
+  :author: Susannah Tremblay DC
+  :genre: Essay
+  :publisher: Random House
+  :year: 2019
+- :id: 21968
+  :title: The Last Enemy
+  :author: Mohamed Dach
+  :genre: Horror
+  :publisher: Pecan Grove Press
+  :year: 2019
+- :id: 21912
+  :title: Moab Is My Washpot
+  :author: Matthew Boehm
+  :genre: Mythopoeia
+  :publisher: Focal Press
+  :year: 2023
+- :id: 21696
+  :title: Cool Hand Luke
+  :author: Msgr. Mohammad Koelpin
+  :genre: Comic/Graphic Novel
+  :publisher: Edupedia Publications
+  :year: 2002
+- :id: 21775
+  :title: Diablo II
+  :author: Dennis Heaney, Soledad Hickle, Alina Collier Esq.
+  :genre: Realistic fiction
+  :publisher: Penguin Books
+  :year: 2009
+- :id: 21606
+  :title: Waiting for the Barbarians
+  :author: Gov. Wally Wintheiser
+  :genre: Biography/Autobiography
+  :publisher: University of Michigan Press
+  :year: 1980
+- :id: 21559
+  :title: Mario Kart DS
+  :author: Curtis Rohan, Rocky Erdman
+  :genre: Legend
+  :publisher: George H. Doran Company
+  :year: 1882
+- :id: 21753
+  :title: The Needle's Eye
+  :author: Sen. Amber Roberts, Prof. Augustus Konopelski
+  :genre: Classic
+  :publisher: Mainstream Publishing
+  :year: 1979
+- :id: 21683
+  :title: Bad
+  :author: Lesli Bernier III
+  :genre: Textbook
+  :publisher: BBC Books
+  :year: 1959
+- :id: 21534
+  :title: Bastion
+  :author: Barb Lynch
+  :genre: Comic/Graphic Novel
+  :publisher: Bella Books
+  :year: 2002
+- :id: 21675
+  :title: The Bourne Ultimatum
+  :author: Jaleesa Breitenberg DVM
+  :genre: Mythology
+  :publisher: Naiad Press
+  :year: 2016
+- :id: 21883
+  :title: In a Glass Darkly
+  :author: Rico Zemlak
+  :genre: Reference book
+  :publisher: Black Sparrow Books
+  :year: 2009
+- :id: 21977
+  :title: Things Fall Apart
+  :author: Kirsten Schaefer
+  :genre: Horror
+  :publisher: Happy House
+  :year: 1998
+- :id: 21890
+  :title: 'Call of Duty: Modern Warfare 2'
+  :author: Boyce Hoeger
+  :genre: Essay
+  :publisher: Belknap Press
+  :year: 1992
+- :id: 21967
+  :title: Max Payne 3
+  :author: Elenor Langosh
+  :genre: Fiction in verse
+  :publisher: Airiti Press
+  :year: 1984
+- :id: 22038
+  :title: Precious Bane
+  :author: Karisa Kozey
+  :genre: Metafiction
+  :publisher: University of Alaska Press
+  :year: 1988
+- :id: 21646
+  :title: TRON
+  :author: Caroyln Wilderman
+  :genre: Speech
+  :publisher: University of Chicago Press
+  :year: 1840
+- :id: 22026
+  :title: Jesting Pilate
+  :author: Mohamed Dach, Clyde Jacobson
+  :genre: Short story
+  :publisher: New Holland Publishers
+  :year: 1970
+- :id: 22019
+  :title: 'The Legend of Zelda: Twilight Princess'
+  :author: Beverly McDermott
+  :genre: Legend
+  :publisher: Manning Publications
+  :year: 1970
+- :id: 21589
+  :title: Recovery
+  :author: Miss Ward Farrell
+  :genre: Classic
+  :publisher: Atlas Press
+  :year: 2022
+- :id: 21997
+  :title: Nectar in a Sieve
+  :author: Jerrold Bogan LLD
+  :genre: Suspense/Thriller
+  :publisher: Casemate Publishers
+  :year: 2024
+- :id: 21988
+  :title: The Great Dictator
+  :author: Rosalva Beer
+  :genre: Classic
+  :publisher: Naiad Press
+  :year: 2014
+- :id: 21416
+  :title: Faith
+  :author: Elenor Langosh
+  :genre: Comic/Graphic Novel
+  :publisher: ''
+  :year: 2023
+- :id: 21575
+  :title: 'Command & Conquer: Generals'
+  :author: Louanne Cruickshank, Lakenya Boyer IV
+  :genre: Essay
+  :publisher: Del Rey Books
+  :year: 1975
+- :id: 21850
+  :title: Mr. Smith Goes to Washington
+  :author: Verna Skiles
+  :genre: Fantasy
+  :publisher: Tachyon Publications
+  :year: 1989
+- :id: 21732
+  :title: No Country for Old Men
+  :author: Blair Casper, Ms. Rodger Hoppe
+  :genre: Realistic fiction
+  :publisher: Mandrake Press
+  :year: 2012
+- :id: 22035
+  :title: Beneath the Bleeding
+  :author: Norberto Kohler, Moshe Wilderman, Dr. Emmaline Ritchie
+  :genre: Fanfiction
+  :publisher: United States Government Publishing Office
+  :year: "-"
+- :id: 21658
+  :title: 'Half-Life 2: Episode One'
+  :author: The Hon. Terence Klocko
+  :genre: Reference book
+  :publisher: Brill Publishers
+  :year: 2019
+- :id: 21660
+  :title: Jacob Have I Loved
+  :author: Ozzie Jast
+  :genre: Tall tale
+  :publisher: Charles Scribner's Sons
+  :year: 1986
+- :id: 21695
+  :title: Alien
+  :author: Msgr. Marjorie Koepp
+  :genre: Biography/Autobiography
+  :publisher: Kessinger Publishing
+  :year: 1874
+- :id: 21906
+  :title: Clouds of Witness
+  :author: Lonnie Hilpert, Klara Runolfsdottir Sr., Kirk Treutel
+  :genre: Fiction narrative
+  :publisher: Firebrand Books
+  :year: 2012
+- :id: 21337
+  :title: Left 4 Dead 2
+  :author: Cruz Abshire MD
+  :genre: Mystery
+  :publisher: Daedalus Publishing
+  :year: 1984
+- :id: 21709
+  :title: The Painted Veil
+  :author: Barb Lynch
+  :genre: Short story
+  :publisher: T & T Clark
+  :year: 1832
+- :id: 21973
+  :title: Wii Sports Resort
+  :author: Quintin O'Kon
+  :genre: Realistic fiction
+  :publisher: Reed Elsevier
+  :year: 2012
+- :id: 21390
+  :title: Dishonored
+  :author: Miss Jesus Pfannerstill
+  :genre: Short story
+  :publisher: Cisco Press
+  :year: 1998
+- :id: 21542
+  :title: God of War
+  :author: Zackary Carter
+  :genre: Science fiction
+  :publisher: Shambhala Publications
+  :year: 1996
+- :id: 21381
+  :title: Frozen
+  :author: Dr. Pat Kunze
+  :genre: Western
+  :publisher: Butterworth-Heinemann
+  :year: 1977
+- :id: 21651
+  :title: 'The Legend of Zelda: Ocarina of Time'
+  :author: Adelia Lind, Floyd Cassin III
+  :genre: Fanfiction
+  :publisher: Seagull Books
+  :year: 1985
+- :id: 21864
+  :title: Starcraft II
+  :author: Miss Wade Lebsack, Reginia Weissnat
+  :genre: Mystery
+  :publisher: SAGE Publications
+  :year: 1995
+- :id: 21621
+  :title: Noli Me Tangere
+  :author: Dominique Sipes
+  :genre: Crime/Detective
+  :publisher: University of Alaska Press
+  :year: 1978
+- :id: 21915
+  :title: 'Batman: Arkham City'
+  :author: Alina Collier Esq.
+  :genre: Fable
+  :publisher: Carlton Books
+  :year: 1979
+- :id: 21776
+  :title: 'Halo 5: Guardians'
+  :author: Coy Streich, Keeley Hand, Lela Emard
+  :genre: Horror
+  :publisher: Ladybird Books
+  :year: 1988
+- :id: 21624
+  :title: Edna O'Brien
+  :author: Mireya Schroeder, Elmer Parker
+  :genre: Historical fiction
+  :publisher: UCL Press
+  :year: 1998
+- :id: 21964
+  :title: 'Hitman: Absolution'
+  :author: Zackary Carter, Nick Ziemann
+  :genre: Fable
+  :publisher: J. M. Dent
+  :year: 2000
+- :id: 21565
+  :title: Monsters, Inc.
+  :author: Msgr. Juan Beer, Garth Heidenreich, Lavon Langosh
+  :genre: Crime/Detective
+  :publisher: HarperCollins
+  :year: 1996
+- :id: 21442
+  :title: Doom
+  :author: Les Rogahn
+  :genre: Suspense/Thriller
+  :publisher: Legend Books
+  :year: 2004
+- :id: 21372
+  :title: 'Call of Duty: Black Ops III'
+  :author: Anton Moen
+  :genre: Mythopoeia
+  :publisher: Candlewick Press
+  :year: 1977
+- :id: 21349
+  :title: Hearthstone
+  :author: Dr. Emmaline Ritchie, Norberto Kohler, Moshe Wilderman
+  :genre: Historical fiction
+  :publisher: Carnegie Mellon University Press
+  :year: 1842
+- :id: 21586
+  :title: Sleeping Dogs
+  :author: Zoila Christiansen, Kylee Smith
+  :genre: Mythopoeia
+  :publisher: Sams Publishing
+  :year: 0
+- :id: 21772
+  :title: Wolfenstein 3D
+  :author: Elvina Nader
+  :genre: Biography/Autobiography
+  :publisher: Harcourt Assessment
+  :year: 1983
+- :id: 21720
+  :title: Tracy Chapman
+  :author: Miss Jesus Pfannerstill
+  :genre: Fable
+  :publisher: Ian Allan Publishing
+  :year: 2017
+- :id: 21822
+  :title: 'Command & Conquer 4: Tiberian Twilight'
+  :author: Jaleesa Breitenberg DVM
+  :genre: Folklore
+  :publisher: City Lights Publishers
+  :year: 1998
+- :id: 21800
+  :title: The Sign
+  :author: Benjamin Mills
+  :genre: Comic/Graphic Novel
+  :publisher: HMSO
+  :year: 1898
+- :id: 21512
+  :title: Ego Dominus Tuus
+  :author: Kirsten Schaefer
+  :genre: Mythopoeia
+  :publisher: Focal Press
+  :year: 1987
+- :id: 21418
+  :title: Apocalypse Now
+  :author: Pedro Bradtke, Beverly McDermott
+  :genre: Fantasy
+  :publisher: Broadview Press
+  :year: 2012
+- :id: 21667
+  :title: Super Mario Bros. 3
+  :author: Mohamed Dach, Clyde Jacobson
+  :genre: Legend
+  :publisher: Basic Books
+  :year: 2024
+- :id: 21925
+  :title: Kirby's Dream Land
+  :author: Carolyn Yost
+  :genre: Fiction narrative
+  :publisher: Kodansha
+  :year: 1993
+- :id: 21585
+  :title: In Death Ground
+  :author: Garth Marvin
+  :genre: Fantasy
+  :publisher: HMSO
+  :year: 1992
+- :id: 22028
+  :title: 'Max Payne 2: The Fall of Max Payne'
+  :author: Travis Von
+  :genre: Fable
+  :publisher: Penguin Books
+  :year: 1996
+- :id: 21820
+  :title: God of War
+  :author: Zackary Carter
+  :genre: Science fiction
+  :publisher: Del Rey Books
+  :year: 2003
+- :id: 21872
+  :title: Pokémon White
+  :author: Kirk Treutel, Klara Runolfsdottir Sr.
+  :genre: Tall tale
+  :publisher: New Directions Publishing
+  :year: 2023
+- :id: 21599
+  :title: Antic Hay
+  :author: Boyce Hoeger
+  :genre: Realistic fiction
+  :publisher: Leaf Books
+  :year: 2007
+- :id: 22003
+  :title: Garry's Mod
+  :author: Kizzie Purdy
+  :genre: Fiction in verse
+  :publisher: Cambridge University Press
+  :year: 2025
+- :id: 21679
+  :title: Oldboy
+  :author: Benjamin Mills
+  :genre: Mystery
+  :publisher: Blackwell Publishing
+  :year: 2017
+- :id: 22020
+  :title: An Acceptable Time
+  :author: Sean Kassulke
+  :genre: Fiction narrative
+  :publisher: Black Dog Publishing
+  :year: 2017
+- :id: 21628
+  :title: Animal Crossing
+  :author: Marlin Kuvalis
+  :genre: Fantasy
+  :publisher: Penguin Books
+  :year: 1987
+- :id: 21815
+  :title: Cover Her Face
+  :author: Yesenia Raynor DDS, Hue Ondricka I, Lewis Boehm
+  :genre: Fable
+  :publisher: Zed Books
+  :year: 1989
+- :id: 22000
+  :title: Mega Man
+  :author: Albert Lehner Ret.
+  :genre: Comic/Graphic Novel
+  :publisher: Marion Boyars Publishers
+  :year: 1981
+- :id: 21477
+  :title: A Many-Splendoured Thing
+  :author: Sook Halvorson
+  :genre: Fanfiction
+  :publisher: HarperTrophy
+  :year: 1936
+- :id: 21891
+  :title: Team Fortress Classic
+  :author: Roman Koss
+  :genre: Humor
+  :publisher: Zed Books
+  :year: 1995
+- :id: 21639
+  :title: Pokémon Yellow
+  :author: Timmy Corwin
+  :genre: Realistic fiction
+  :publisher: Carnegie Mellon University Press
+  :year: 1894
+- :id: 21380
+  :title: Mario Kart 8
+  :author: Garth Marvin
+  :genre: Fable
+  :publisher: HarperPrism
+  :year: 1991
+- :id: 21649
+  :title: The Maltese Falcon
+  :author: Anton Moen
+  :genre: Fairy tale
+  :publisher: John Blake Publishing
+  :year: 1850
+- :id: 22041
+  :title: 'The Legend of Zelda: Majora''s Mask'
+  :author: Adelia Lind, Floyd Cassin III
+  :genre: Western
+  :publisher: Casemate Publishers
+  :year: 1985
+- :id: 21702
+  :title: Indiana Jones and the Last Crusade
+  :author: Mrs. Jessie Brekke
+  :genre: Science fiction
+  :publisher: Blackwell Publishing
+  :year: 2024
+- :id: 21569
+  :title: The Parliament of Man
+  :author: Miss Wade Lebsack
+  :genre: Fiction in verse
+  :publisher: Hay House
+  :year: 2021
+- :id: 21777
+  :title: The Golden Apples of the Sun
+  :author: Jeffry Nolan Ret.
+  :genre: Essay
+  :publisher: Cloverdale Corporation
+  :year: 1994
+- :id: 21535
+  :title: '25'
+  :author: Benjamin Mills
+  :genre: Fantasy
+  :publisher: Pathfinder Press
+  :year: 1994
+- :id: 21844
+  :title: Batman Begins
+  :author: Louanne Cruickshank, Lakenya Boyer IV
+  :genre: Narrative nonfiction
+  :publisher: Shire Books
+  :year: 2004
+- :id: 22043
+  :title: Fame Is the Spur
+  :author: Fr. Dick Spinka
+  :genre: Fantasy
+  :publisher: Bantam Books
+  :year: 2015
+- :id: 21490
+  :title: Taming a Sea Horse
+  :author: Kevin Mayer, Kimberely Kutch, Darius Mohr
+  :genre: Horror
+  :publisher: Ian Allan Publishing
+  :year: 2004
+- :id: 21417
+  :title: Super Mario Odyssey
+  :author: Matthew Turner
+  :genre: Legend
+  :publisher: Andrews McMeel Publishing
+  :year: 1986
+- :id: 21619
+  :title: Myst
+  :author: Sonny Bogan
+  :genre: Fanfiction
+  :publisher: David & Charles
+  :year: 2014
+- :id: 21324
+  :title: I Dreamed a Dream
+  :author: Hortencia Wunsch
+  :genre: Fantasy
+  :publisher: Kodansha
+  :year: 1993
+- :id: 21588
+  :title: Double Indemnity
+  :author: Marlin Kuvalis
+  :genre: Tall tale
+  :publisher: Casemate Publishers
+  :year: 1903
+- :id: 21533
+  :title: 'Half-Life: Blue Shift'
+  :author: Garth Marvin
+  :genre: Fiction in verse
+  :publisher: Salt Publishing
+  :year: 1876
+- :id: 21897
+  :title: Time To Murder And Create
+  :author: Hortencia Wunsch
+  :genre: Mystery
+  :publisher: Lethe Press
+  :year: 2009
+- :id: 21336
+  :title: Gone Girl
+  :author: Jimmie Harvey
+  :genre: Narrative nonfiction
+  :publisher: Harvard University Press
+  :year: 1985
+- :id: 21742
+  :title: 'Mad Max: Fury Road'
+  :author: Jimmie Harvey
+  :genre: Speech
+  :publisher: Kessinger Publishing
+  :year: 2003
+- :id: 21851
+  :title: Half-Life
+  :author: Moshe Wilderman, Dr. Emmaline Ritchie, Norberto Kohler
+  :genre: Narrative nonfiction
+  :publisher: Open University Press
+  :year: 2023
+- :id: 21554
+  :title: Super Mario Galaxy
+  :author: Ozzie Jast
+  :genre: Science fiction
+  :publisher: Mainstream Publishing
+  :year: 2013
+- :id: 21532
+  :title: 'Command & Conquer: Red Alert'
+  :author: Tabetha Johnston
+  :genre: Realistic fiction
+  :publisher: Left Book Club
+  :year: 2002
+- :id: 21792
+  :title: Look to Windward
+  :author: Bennett Raynor
+  :genre: Speech
+  :publisher: Shire Books
+  :year: 1983
+- :id: 21848
+  :title: Garry's Mod
+  :author: Kizzie Purdy
+  :genre: Fiction in verse
+  :publisher: Zed Books
+  :year: 2015
+- :id: 21838
+  :title: The Daffodil Sky
+  :author: Hal Nitzsche, Damian Gulgowski
+  :genre: Crime/Detective
+  :publisher: Open Court Publishing Company
+  :year: 1852
+- :id: 21360
+  :title: A Clockwork Orange
+  :author: Laureen Herzog, Rep. Bridgett Rosenbaum, Richie Gislason, Charlsie Cummerata
+  :genre: Fiction narrative
+  :publisher: Broadview Press
+  :year: 2022
+- :id: 21810
+  :title: Beyond the Mexique Bay
+  :author: Reginia Weissnat, Miss Wade Lebsack
+  :genre: Classic
+  :publisher: Golden Cockerel Press
+  :year: 1964
+- :id: 22023
+  :title: Pokémon Silver
+  :author: Cristin Deckow III
+  :genre: Fantasy
+  :publisher: Palgrave Macmillan
+  :year: 2023
+- :id: 21497
+  :title: Jaws
+  :author: Sen. Amber Roberts, Prof. Augustus Konopelski
+  :genre: Textbook
+  :publisher: Broadview Press
+  :year: 2006
+- :id: 21601
+  :title: Dog Day Afternoon
+  :author: Laronda Kuhn
+  :genre: Essay
+  :publisher: Hackett Publishing Company
+  :year: 1987
+- :id: 21870
+  :title: The Bridge on the River Kwai
+  :author: Cordell Ritchie
+  :genre: Realistic fiction
+  :publisher: Flame Tree Publishing
+  :year: 2009
+- :id: 21741
+  :title: Fire Emblem Awakening
+  :author: Rep. Bridgett Rosenbaum, Charlsie Cummerata, Laureen Herzog, Richie Gislason
+  :genre: Historical fiction
+  :publisher: Karadi Tales
+  :year: 2008
+- :id: 21867
+  :title: Garry's Mod
+  :author: Kizzie Purdy
+  :genre: Fiction in verse
+  :publisher: Reed Publishing
+  :year: 2022
+- :id: 21637
+  :title: Pokémon Emerald
+  :author: Travis Von
+  :genre: Humor
+  :publisher: Open University Press
+  :year: 1977
+- :id: 22031
+  :title: Let Us Now Praise Famous Men
+  :author: Sook Halvorson
+  :genre: Speech
+  :publisher: Bowes & Bowes
+  :year: 1980
+- :id: 21428
+  :title: Groundhog Day
+  :author: Norberto Kohler, Moshe Wilderman
+  :genre: Mythopoeia
+  :publisher: Elsevier
+  :year: 1996
+- :id: 21419
+  :title: Ice Climbers
+  :author: Raymundo Aufderhar, Lamar Kautzer, Isabelle Boehm
+  :genre: Crime/Detective
+  :publisher: Book League of America
+  :year: 1976
+- :id: 21766
+  :title: The Little Foxes
+  :author: Irmgard Bogan I
+  :genre: Crime/Detective
+  :publisher: Gefen Publishing House
+  :year: 1992
+- :id: 21539
+  :title: Finding Nemo
+  :author: Angel Kuhic
+  :genre: Narrative nonfiction
+  :publisher: Secker & Warburg
+  :year: 1990
+- :id: 21467
+  :title: The Woman in Me
+  :author: Veronique Carter, Anton Toy
+  :genre: Historical fiction
+  :publisher: Cisco Press
+  :year: 2018
+- :id: 21521
+  :title: 'Wolfenstein: The New Order'
+  :author: Rosalva Beer
+  :genre: Western
+  :publisher: Adis International
+  :year: 1832
+- :id: 21821
+  :title: Now Sleeps the Crimson Petal
+  :author: Bobbie Bernier
+  :genre: Speech
+  :publisher: Marion Boyars Publishers
+  :year: 2010
+- :id: 21392
+  :title: Taxi Driver
+  :author: Zoila Christiansen
+  :genre: Fairy tale
+  :publisher: Booktrope
+  :year: 2019
+- :id: 22046
+  :title: Half-Life 2
+  :author: Fr. Dick Spinka
+  :genre: Historical fiction
+  :publisher:
+  :year: 1987
+- :id: 21614
+  :title: Sleep the Brave
+  :author: Donovan Bins
+  :genre: Western
+  :publisher: Hay House
+  :year: 1995
+- :id: 21647
+  :title: Rocky
+  :author: Benjamin Mills
+  :genre: Mystery
+  :publisher: McGraw-Hill Education
+  :year: 1980
+- :id: 21752
+  :title: Pokémon SoulSilver
+  :author: Reginia Weissnat
+  :genre: Metafiction
+  :publisher: Carnegie Mellon University Press
+  :year: 1993
+- :id: 21546
+  :title: Mega Man Battle Network
+  :author: Ms. Kami Prosacco
+  :genre: Biography/Autobiography
+  :publisher: Unfinished Monument Press
+  :year: 2004
+- :id: 21470
+  :title: Jagged Little Pill
+  :author: Teresia Fisher
+  :genre: Science fiction
+  :publisher: Voyager Books
+  :year: 1986
+- :id: 21629
+  :title: In the Name of the Father
+  :author: Barb Lynch
+  :genre: Tall tale
+  :publisher: Lethe Press
+  :year: 2003
+- :id: 21514
+  :title: 'Half-Life 2: Episode Two'
+  :author: Richie Gislason
+  :genre: Essay
+  :publisher: Anova Books
+  :year: 1866
+- :id: 21873
+  :title: 'Desperados: Wanted Dead or Alive'
+  :author: Pres. Shana Block
+  :genre: Fiction narrative
+  :publisher: Reed Publishing
+  :year: 1978
+- :id: 21687
+  :title: Stalker
+  :author: Sook Halvorson
+  :genre: Short story
+  :publisher: Tate Publishing & Enterprises
+  :year: 1976
+- :id: 21332
+  :title: The Lathe of Heaven
+  :author: Rosalva Beer
+  :genre: Fantasy
+  :publisher: Voyager Books
+  :year: 2003
+- :id: 21860
+  :title: Supernatural
+  :author: Mitch Gusikowski, Kirsten Schaefer
+  :genre: Fable
+  :publisher: Carcanet Press
+  :year: 2023
+- :id: 21672
+  :title: Life of Brian
+  :author: Cornell Murazik, Mr. Terrell Sawayn
+  :genre: Fairy tale
+  :publisher: Gefen Publishing House
+  :year: 1989
+- :id: 21828
+  :title: BioShock Infinite
+  :author: Cristin Deckow III
+  :genre: Metafiction
+  :publisher: McGraw-Hill Education
+  :year: 1989
+- :id: 21422
+  :title: Kirby's Adventure
+  :author: Felicita White DO
+  :genre: Narrative nonfiction
+  :publisher: Golden Cockerel Press
+  :year: 1995
+- :id: 21908
+  :title: 'Call of Duty: Modern Warfare Remastered'
+  :author: Johnny Russel
+  :genre: Speech
+  :publisher: Ballantine Books
+  :year: 2009
+- :id: 21939
+  :title: Left 4 Dead 2
+  :author: Cruz Abshire MD
+  :genre: Mystery
+  :publisher: Vintage Books
+  :year: 2002
+- :id: 21598
+  :title: 'Metroid Prime 2: Echoes'
+  :author: Wendell Zboncak
+  :genre: Comic/Graphic Novel
+  :publisher: Farrar, Straus & Giroux
+  :year: 1877
+- :id: 22051
+  :title: 'Call of Duty: Black Ops 4'
+  :author: Sanjuana Bernier
+  :genre: Science fiction
+  :publisher: Andrews McMeel Publishing
+  :year: 1977
+- :id: 21593
+  :title: The Mermaids Singing
+  :author: Allan Dickinson
+  :genre: Fairy tale
+  :publisher: Churchill Livingstone
+  :year: 2006
+- :id: 21756
+  :title: Tapestry
+  :author: Timothy Murazik
+  :genre: Mythopoeia
+  :publisher: André Deutsch
+  :year: 1999
+- :id: 22048
+  :title: Dookie
+  :author: Cordell Ritchie
+  :genre: Realistic fiction
+  :publisher: Imperial War Museum
+  :year: 2004
+- :id: 21401
+  :title: Shadow of the Colossus
+  :author: Timothy Murazik
+  :genre: Mystery
+  :publisher: Marshall Pickering
+  :year: 2021
+- :id: 21550
+  :title: All the King's Men
+  :author: Shanelle Upton
+  :genre: Mystery
+  :publisher: Unfinished Monument Press
+  :year: 2010
+- :id: 21596
+  :title: The Colour of My Love
+  :author: Brandi Cole
+  :genre: Horror
+  :publisher: FabJob
+  :year: 2009
+- :id: 21604
+  :title: F-Zero
+  :author: Myrtis Corwin
+  :genre: Realistic fiction
+  :publisher: HMSO
+  :year: 2008
+- :id: 21436
+  :title: Endless Night
+  :author: Karisa Kozey
+  :genre: Mythology
+  :publisher: New English Library
+  :year: 1977
+- :id: 21874
+  :title: Frequent Hearses
+  :author: Dr. Deb Kemmer
+  :genre: Essay
+  :publisher: Anova Books
+  :year: 1982
+- :id: 21784
+  :title: Witness for the Prosecution
+  :author: Hoyt Jacobson III
+  :genre: Fiction narrative
+  :publisher: Shuter & Shooter Publishers
+  :year: 1988
+- :id: 21809
+  :title: Pong
+  :author: Jae Bogisich, Lonnie Hilpert
+  :genre: Speech
+  :publisher: Etruscan Press
+  :year: 1984
+- :id: 21541
+  :title: Like a Virgin
+  :author: Beverly McDermott
+  :genre: Mystery
+  :publisher: Blackie and Son Limited
+  :year: 2017
+- :id: 21443
+  :title: Pulp Fiction
+  :author: Lonnie Hilpert, Jae Bogisich
+  :genre: Historical fiction
+  :publisher: Gaspereau Press
+  :year: 1984
+- :id: 21685
+  :title: A Passage to India
+  :author: Prof. Remedios Powlowski
+  :genre: Textbook
+  :publisher: Harlequin Enterprises Ltd
+  :year: 1985
+- :id: 21630
+  :title: Look Homeward, Angel
+  :author: Jeffery Leuschke PhD, Frederick Klocko CPA, Miss Bok Barrows, Era Hodkiewicz
+  :genre: Comic/Graphic Novel
+  :publisher: Shambhala Publications
+  :year: 1979
+- :id: 21926
+  :title: Pokémon Shield
+  :author: Lonnie Hilpert
+  :genre: Mythology
+  :publisher: Naiad Press
+  :year: 1990
+- :id: 21382
+  :title: Metallica
+  :author: Farah Rohan II
+  :genre: Mystery
+  :publisher: Firebrand Books
+  :year: 1934
+- :id: 21905
+  :title: Off the Wall
+  :author: Cordell Ritchie
+  :genre: Legend
+  :publisher: University of Michigan Press
+  :year: 2002
+- :id: 21311
+  :title: 'Halo 3: ODST'
+  :author: Dominque Fisher, Leigh Bednar
+  :genre: Fairy tale
+  :publisher: St. Martin's Press
+  :year: 1991
+- :id: 21491
+  :title: The Golden Apples of the Sun
+  :author: Jeffry Nolan Ret.
+  :genre: Essay
+  :publisher: Firebrand Books
+  :year: 1984
+- :id: 21735
+  :title: Some Like It Hot
+  :author: Kylee Smith, Zoila Christiansen
+  :genre: Mystery
+  :publisher: Left Book Club
+  :year: 2017
+- :id: 21933
+  :title: O Jerusalem!
+  :author: Johnny Russel
+  :genre: Classic
+  :publisher: "-"
+  :year: 2014
+- :id: 21587
+  :title: 'Command & Conquer: Generals'
+  :author: Louanne Cruickshank, Lakenya Boyer IV
+  :genre: Essay
+  :publisher: Carnegie Mellon University Press
+  :year: 1956
+- :id: 21454
+  :title: WALL·E
+  :author: Mohamed Dach
+  :genre: Realistic fiction
+  :publisher: Daedalus Publishing
+  :year: 2018
+- :id: 22056
+  :title: Seven Samurai
+  :author: Jaleesa Breitenberg DVM
+  :genre: Realistic fiction
+  :publisher: Paulist Press
+  :year: 1987
+- :id: 21917
+  :title: The Bodyguard
+  :author: Dr. Pat Kunze
+  :genre: Fantasy
+  :publisher: Legend Books
+  :year: 2004
+- :id: 21493
+  :title: Full Metal Jacket
+  :author: Curtis Rohan, Rocky Erdman
+  :genre: Mythopoeia
+  :publisher: Harper & Brothers
+  :year: 2001
+- :id: 21961
+  :title: Let's Talk About Love
+  :author: The Hon. Terence Klocko
+  :genre: Science fiction
+  :publisher: Penguin Books
+  :year: 1998
+- :id: 21743
+  :title: Born in the U.S.A.
+  :author: Rep. Vern Turcotte
+  :genre: Comic/Graphic Novel
+  :publisher: Vintage Books
+  :year: 2020
+- :id: 21574
+  :title: Hysteria
+  :author: Lamar Kautzer, Isabelle Boehm, Raymundo Aufderhar
+  :genre: Suspense/Thriller
+  :publisher: Tarpaulin Sky Press
+  :year: 1976
+- :id: 21456
+  :title: Puyo Puyo Tetris
+  :author: Latrina Kuphal
+  :genre: Humor
+  :publisher: Bowes & Bowes
+  :year: 2023
+- :id: 21680
+  :title: Pokémon Y
+  :author: Mitch Gusikowski, Dylan Upton, Fredda Brekke, Vernice Emard
+  :genre: Science fiction
+  :publisher: Boydell & Brewer
+  :year: 1978
+- :id: 21704
+  :title: The Green Bay Tree
+  :author: Lakenya Boyer IV
+  :genre: Folklore
+  :publisher: Atheneum Publishers
+  :year: 1976
+- :id: 21517
+  :title: Tiger! Tiger!
+  :author: Anton Toy, Veronique Carter
+  :genre: Reference book
+  :publisher: Athabasca University Press
+  :year: 2024
+- :id: 21373
+  :title: Halo 3
+  :author: Shelby Willms IV
+  :genre: Tall tale
+  :publisher: Mainstream Publishing
+  :year: 1976
+- :id: 21472
+  :title: Ricochet
+  :author: Zoila Christiansen
+  :genre: Speech
+  :publisher: City Lights Publishers
+  :year: 1988
+- :id: 21941
+  :title: Hybrid Theory
+  :author: Tomasa Kozey, The Hon. Kylee Rempel
+  :genre: Fable
+  :publisher: J. M. Dent
+  :year: 2021
+- :id: 21669
+  :title: Appetite for Destruction
+  :author: Lonnie Hilpert
+  :genre: Fiction narrative
+  :publisher: Fairview Press
+  :year: 'NULL'
+- :id: 21560
+  :title: Super Smash Bros. Ultimate
+  :author: Korey Rice V
+  :genre: Speech
+  :publisher: University of California Press
+  :year: 1994
+- :id: 21816
+  :title: O Pioneers!
+  :author: Myrl Miller
+  :genre: Mythopoeia
+  :publisher: Ziff Davis Media
+  :year: '0'
+- :id: 21856
+  :title: The Violent Bear It Away
+  :author: Alphonso Gulgowski, Mercedez Welch
+  :genre: Short story
+  :publisher: Pecan Grove Press
+  :year: 1989
+- :id: 21654
+  :title: Modern Times
+  :author: Frederick Klocko CPA
+  :genre: Science fiction
+  :publisher: Addison-Wesley
+  :year: 2022
+- :id: 21715
+  :title: A Confederacy of Dunces
+  :author: Zachary Ryan
+  :genre: Metafiction
+  :publisher: Bellevue Literary Press
+  :year: 2024
+- :id: 21837
+  :title: A Monstrous Regiment of Women
+  :author: Lavon Langosh, Msgr. Juan Beer, Garth Heidenreich
+  :genre: Reference book
+  :publisher: HarperCollins
+  :year: 2013
+- :id: 22029
+  :title: '1'
+  :author: Rosann Wolf VM
+  :genre: Short story
+  :publisher: Gay Men's Press
+  :year: 2023
+- :id: 21498
+  :title: Chinatown
+  :author: Dominque Fisher, Leigh Bednar
+  :genre: Comic/Graphic Novel
+  :publisher: Nauka
+  :year: 1997
+- :id: 21523
+  :title: The Wives of Bath
+  :author: Jeffry Nolan Ret.
+  :genre: Metafiction
+  :publisher: Carlton Publishing Group
+  :year: 1985
+- :id: 21886
+  :title: Unweaving the Rainbow
+  :author: Reid Rice
+  :genre: Classic
+  :publisher: Apress
+  :year: 2012
+- :id: 21807
+  :title: Dying of the Light
+  :author: Johnny Russel
+  :genre: Science fiction
+  :publisher: Apress
+  :year: 2008
+- :id: 21819
+  :title: Deus Ex
+  :author: Kylee Smith, Zoila Christiansen
+  :genre: Metafiction
+  :publisher: Libertas Academica
+  :year: 2025
+- :id: 21387
+  :title: The Marshall Mathers LP
+  :author: Rossana Cruickshank
+  :genre: Horror
+  :publisher: Allen Ltd
+  :year: 1965
+- :id: 21316
+  :title: 'Commandos 3: Destination Berlin'
+  :author: Terrance Schneider
+  :genre: Narrative nonfiction
+  :publisher: Pen and Sword Books
+  :year: 2024
+- :id: 21765
+  :title: The Great Escape
+  :author: Maura Kuvalis DC
+  :genre: Fiction narrative
+  :publisher: Blackie and Son Limited
+  :year: 1996
+- :id: 21310
+  :title: 'Gold: Greatest Hits'
+  :author: Jimmie Harvey
+  :genre: Essay
+  :publisher: Horizon Scientific Press
+  :year: 1998
+- :id: 21434
+  :title: PlayerUnknown's Battlegrounds
+  :author: Jeffry Nolan Ret.
+  :genre: Comic/Graphic Novel
+  :publisher: Ellora's Cave
+  :year: 1981
+- :id: 22008
+  :title: Ah, Wilderness!
+  :author: Gov. Crystle Klocko
+  :genre: Narrative nonfiction
+  :publisher: Carlton Books
+  :year: 2024
+- :id: 21746
+  :title: Pokémon Crystal
+  :author: Haley Nader, Shanta Price
+  :genre: Narrative nonfiction
+  :publisher: Pen and Sword Books
+  :year: 1977
+- :id: 21978
+  :title: Dial M for Murder
+  :author: Alphonso Gulgowski, Mercedez Welch, Josette Nikolaus DC
+  :genre: Classic
+  :publisher: Packt Publishing
+  :year: 2004
+- :id: 21312
+  :title: 'Command & Conquer: Tiberium Alliances'
+  :author: Casey Bode
+  :genre: Fanfiction
+  :publisher: Salt Publishing
+  :year: 1980
+- :id: 21584
+  :title: Se7en
+  :author: Gov. Crystle Klocko
+  :genre: Crime/Detective
+  :publisher: Martinus Nijhoff Publishers
+  :year: 1976
+- :id: 22015
+  :title: Tirra Lirra by the River
+  :author: Sean Harvey III
+  :genre: Humor
+  :publisher: Eerdmans Publishing
+  :year: 2003
+- :id: 21678
+  :title: Desperados III
+  :author: Pres. Ariel Runte
+  :genre: Mythopoeia
+  :publisher: Martinus Nijhoff Publishers
+  :year: 2014
+- :id: 21638
+  :title: From Here to Eternity
+  :author: Teresia Fisher
+  :genre: Mythology
+  :publisher: Edupedia Publications
+  :year: 1999
+- :id: 21370
+  :title: For a Breath I Tarry
+  :author: Prof. Remedios Powlowski
+  :genre: Mystery
+  :publisher: ''
+  :year: 1996
+- :id: 21607
+  :title: Life Is Beautiful
+  :author: Antione O'Reilly, Josette Nikolaus DC
+  :genre: Fantasy
+  :publisher: Oberon Books
+  :year: 1978
+- :id: 21989
+  :title: Eyeless in Gaza
+  :author: Valery Schimmel
+  :genre: Crime/Detective
+  :publisher: Pavilion Books
+  :year: 2023
+- :id: 21782
+  :title: Such, Such Were the Joys
+  :author: Korey Rice V
+  :genre: Legend
+  :publisher: Lion Hudson
+  :year: 2007
+- :id: 21716
+  :title: Let Us Now Praise Famous Men
+  :author: Sook Halvorson
+  :genre: Speech
+  :publisher: Cambridge University Press
+  :year: 1970
+- :id: 21307
+  :title: Bayonetta 2
+  :author: Floyd Cassin III
+  :genre: Horror
+  :publisher: Bloodaxe Books
+  :year: 2003
+- :id: 21404
+  :title: Pokémon Pearl
+  :author: Julia Bartoletti
+  :genre: Realistic fiction
+  :publisher: Adis International
+  :year: 1990
+- :id: 21333
+  :title: 12 Years a Slave
+  :author: Jon Hettinger DVM, Randal McCullough, Benedict Steuber
+  :genre: Fiction in verse
+  :publisher: Carcanet Press
+  :year: 1976
+- :id: 21315
+  :title: That Good Night
+  :author: Korey Rice V, Rico Zemlak
+  :genre: Mythology
+  :publisher: NavPress
+  :year: 1985
+- :id: 21366
+  :title: 'The Godfather: Part II'
+  :author: Miss Wade Lebsack
+  :genre: Suspense/Thriller
+  :publisher: Hawthorne Books
+  :year: 1998
+- :id: 22040
+  :title: Everything is Illuminated
+  :author: Alec Ziemann
+  :genre: Folklore
+  :publisher: Charles Scribner's Sons
+  :year: 2002
+- :id: 21717
+  :title: The Stars' Tennis Balls
+  :author: Antonio Lindgren
+  :genre: Classic
+  :publisher: Naiad Press
+  :year: 1852
+- :id: 21880
+  :title: Castle Crashers
+  :author: Prof. Remedios Powlowski
+  :genre: Fiction narrative
+  :publisher: Kodansha
+  :year: 2006
+- :id: 21367
+  :title: Platoon
+  :author: Ms. Kami Prosacco
+  :genre: Tall tale
+  :publisher: Black Dog Publishing
+  :year: 1991
+- :id: 21751
+  :title: F-Zero
+  :author: Myrtis Corwin
+  :genre: Realistic fiction
+  :publisher: Chronicle Books
+  :year: 2010
+- :id: 21515
+  :title: A Darkling Plain
+  :author: Delois Koss, Catrina Roob PhD, Sid Oberbrunner
+  :genre: Legend
+  :publisher: Ballantine Books
+  :year: 2010
+- :id: 21791
+  :title: 'Star Wars: Episode I – The Phantom Menace'
+  :author: Carroll Schultz
+  :genre: Science fiction
+  :publisher: Harper & Brothers
+  :year: 2008
+- :id: 21318
+  :title: Infamous
+  :author: Reuben Mayert
+  :genre: Fairy tale
+  :publisher: Chambers Harrap
+  :year: 2015
+- :id: 21430
+  :title: True Blue
+  :author: Amb. Elia Lebsack, Edmundo Oberbrunner, Bernard Bayer
+  :genre: Fanfiction
+  :publisher: Bantam Books
+  :year: 2018
+- :id: 22011
+  :title: 'Halo 5: Guardians'
+  :author: Coy Streich, Keeley Hand, Lela Emard
+  :genre: Horror
+  :publisher: D. Appleton & Company
+  :year: 1979
+- :id: 21907
+  :title: The Eminem Show
+  :author: Mrs. Jessie Brekke
+  :genre: Tall tale
+  :publisher: Harvill Press at Random House
+  :year: 1983
+- :id: 21594
+  :title: Down to a Sunless Sea
+  :author: Rico Zemlak
+  :genre: Reference book
+  :publisher: Adis International
+  :year: 2024
+- :id: 21768
+  :title: The Joshua Tree
+  :author: Pres. Donya West
+  :genre: Legend
+  :publisher: Penguin Books
+  :year: 2021
+- :id: 21603
+  :title: Amadeus
+  :author: Beatris Upton
+  :genre: Tall tale
+  :publisher: Sidgwick & Jackson
+  :year: 1979
+- :id: 21350
+  :title: Mass Effect
+  :author: Sanjuana Bernier
+  :genre: Historical fiction
+  :publisher: Reed Publishing
+  :year: 1978
+- :id: 21400
+  :title: The Soldier's Art
+  :author: Pres. Shana Block
+  :genre: Fable
+  :publisher: Leaf Books
+  :year: 1980
+- :id: 21786
+  :title: Donnie Darko
+  :author: Quintin O'Kon
+  :genre: Horror
+  :publisher: Pantheon Books at Random House
+  :year: 1998
+- :id: 21652
+  :title: To a God Unknown
+  :author: Amb. Elia Lebsack, Bernard Bayer, Jerry Cormier, Edmundo Oberbrunner
+  :genre: Legend
+  :publisher: Left Book Club
+  :year: 1986
+- :id: 21853
+  :title: The Dark Knight
+  :author: Rico Zemlak, Korey Rice V
+  :genre: Western
+  :publisher: Bowes & Bowes
+  :year: 1980
+- :id: 21426
+  :title: Endless Night
+  :author: Karisa Kozey
+  :genre: Mythology
+  :publisher: Gefen Publishing House
+  :year: 1982
+- :id: 21657
+  :title: Doom II
+  :author: Randal McCullough, Jon Hettinger DVM, Benedict Steuber
+  :genre: Horror
+  :publisher: Secker & Warburg
+  :year: 2005
+- :id: 21682
+  :title: Saving Private Ryan
+  :author: Mohamed Dach, Clyde Jacobson
+  :genre: Folklore
+  :publisher: Pecan Grove Press
+  :year: 2008
+- :id: 21937
+  :title: The Terminator
+  :author: Soledad Hickle, Dennis Heaney
+  :genre: Legend
+  :publisher: Cambridge University Press
+  :year: 1999
+- :id: 21686
+  :title: Super Mario Galaxy 2
+  :author: Elenor Langosh
+  :genre: Historical fiction
+  :publisher: Lion Hudson
+  :year: 2005
+- :id: 21355
+  :title: Diablo III
+  :author: Miss Bok Barrows, Jeffery Leuschke PhD, Era Hodkiewicz, Frederick Klocko
+    CPA
+  :genre: Short story
+  :publisher: Legend Books
+  :year: 1863
+- :id: 21413
+  :title: Nuovo Cinema Paradiso
+  :author: Dr. Emmaline Ritchie, Moshe Wilderman, Norberto Kohler
+  :genre: Horror
+  :publisher: Naiad Press
+  :year: 2006
+- :id: 21691
+  :title: I Know Why the Caged Bird Sings
+  :author: Gov. Crystle Klocko
+  :genre: Classic
+  :publisher: Mandrake of Oxford
+  :year: 1992
+- :id: 21727
+  :title: Mirror's Edge
+  :author: Antione O'Reilly, Josette Nikolaus DC
+  :genre: Humor
+  :publisher: Butterworth-Heinemann
+  :year: 2004
+- :id: 21341
+  :title: The Princess Bride
+  :author: Jermaine Wehner
+  :genre: Comic/Graphic Novel
+  :publisher: Open Court Publishing Company
+  :year: 1997
+- :id: 21857
+  :title: 'Star Wars: Episode II – Attack of the Clones'
+  :author: Ria Senger
+  :genre: Mythopoeia
+  :publisher: Borgo Press
+  :year: 2020
+- :id: 22044
+  :title: Toy Story
+  :author: Julia Bartoletti
+  :genre: Fairy tale
+  :publisher: Jarrolds Publishing
+  :year: 1990
+- :id: 21944
+  :title: Persona
+  :author: Sean Harvey III, Glenna Huel, Enrique Gislason
+  :genre: Fantasy
+  :publisher: BBC Books
+  :year: 1992
+- :id: 21431
+  :title: Nine Coaches Waiting
+  :author: Susannah Tremblay DC
+  :genre: Speech
+  :publisher: Voyager Books
+  :year: 1938
+- :id: 21612
+  :title: Bayonetta
+  :author: Mitch Gusikowski
+  :genre: Fiction narrative
+  :publisher: Booktrope
+  :year: 1878
+- :id: 21731
+  :title: Firewatch
+  :author: Glenna Huel, Enrique Gislason
+  :genre: Historical fiction
+  :publisher: Candlewick Press
+  :year: 2026
+- :id: 21971
+  :title: Sunset Blvd.
+  :author: Alina Collier Esq., Kevin Mayer, Kimberely Kutch, Darius Mohr
+  :genre: Mystery
+  :publisher: Carcanet Press
+  :year: 2014
+- :id: 21946
+  :title: Pokémon Ultra Sun
+  :author: Wendell Zboncak
+  :genre: Mythology
+  :publisher: Jaico Publishing House
+  :year: 1982
+- :id: 21331
+  :title: The Prestige
+  :author: Amos Romaguera Jr.
+  :genre: Reference book
+  :publisher: D. Appleton & Company
+  :year: 1991
+- :id: 21888
+  :title: The Dark Knight Rises
+  :author: Alina Collier Esq.
+  :genre: Narrative nonfiction
+  :publisher: HarperCollins
+  :year: 1976
+- :id: 21689
+  :title: Scarface
+  :author: Angel Kuhic
+  :genre: Classic
+  :publisher: Bantam Books
+  :year: 1994
+- :id: 21600
+  :title: Specimen Days
+  :author: Donovan Bins
+  :genre: Suspense/Thriller
+  :publisher: Packt Publishing
+  :year: 1988
+- :id: 21552
+  :title: A Time to Kill
+  :author: Rep. Bridgett Rosenbaum, Laureen Herzog, Charlsie Cummerata
+  :genre: Classic
+  :publisher: Pecan Grove Press
+  :year: 1990
+- :id: 21563
+  :title: Recalled to Life
+  :author: Rossana Cruickshank
+  :genre: Fiction narrative
+  :publisher: Harvest House
+  :year: 2012
+- :id: 21566
+  :title: 'The Lord of the Rings: The Two Towers'
+  :author: Carolyn Yost
+  :genre: Mystery
+  :publisher: Mainstream Publishing
+  :year: 1900
+- :id: 21354
+  :title: To Your Scattered Bodies Go
+  :author: Abigail Reynolds
+  :genre: Biography/Autobiography
+  :publisher: Basic Books
+  :year: 1978
+- :id: 21440
+  :title: Sholay
+  :author: Miss Jesus Pfannerstill
+  :genre: Western
+  :publisher: ''
+  :year: 1852
+- :id: 21712
+  :title: Saving Private Ryan
+  :author: Mohamed Dach, Clyde Jacobson
+  :genre: Folklore
+  :publisher: Gefen Publishing House
+  :year: 2014
+- :id: 22018
+  :title: Of Mice and Men
+  :author: Rosalva Beer
+  :genre: Crime/Detective
+  :publisher: Victor Gollancz Ltd
+  :year: 1998
+- :id: 21403
+  :title: Bicycle Thieves
+  :author: Candis Ledner Sr.
+  :genre: Mythopoeia
+  :publisher: Simon & Schuster
+  :year: 'NULL'
+- :id: 21935
+  :title: Gandhi
+  :author: Carin Christiansen
+  :genre: Narrative nonfiction
+  :publisher: Caister Academic Press
+  :year: 1956
+- :id: 21942
+  :title: The Wealth of Nations
+  :author: Myrtis Corwin
+  :genre: Essay
+  :publisher: Hackett Publishing Company
+  :year: 2015
+- :id: 21397
+  :title: A Handful of Dust
+  :author: Rosann Wolf VM, Sean Kassulke
+  :genre: Fairy tale
+  :publisher: D. Reidel
+  :year: 1979
+- :id: 21790
+  :title: The Help
+  :author: Kizzie Purdy
+  :genre: Crime/Detective
+  :publisher: Caister Academic Press
+  :year: 2017
+- :id: 21847
+  :title: High School Musical
+  :author: Robby Powlowski
+  :genre: Folklore
+  :publisher: Daedalus Publishing
+  :year: 1995
+- :id: 21642
+  :title: The Other Side of Silence
+  :author: Elvina Nader
+  :genre: Comic/Graphic Novel
+  :publisher: Harvard University Press
+  :year: 1985
+- :id: 21489
+  :title: Good Will Hunting
+  :author: Chara Morissette
+  :genre: Realistic fiction
+  :publisher: Mapin Publishing
+  :year: 1987
+- :id: 21787
+  :title: Lemonade
+  :author: Glenna Huel, Enrique Gislason
+  :genre: Fiction narrative
+  :publisher: Shambhala Publications
+  :year: 2020
+- :id: 21455
+  :title: East of Eden
+  :author: Farah Rohan II
+  :genre: Mythopoeia
+  :publisher: Berkley Books
+  :year: 2002
+- :id: 21365
+  :title: The Golden Apples of the Sun
+  :author: Jeffry Nolan Ret.
+  :genre: Essay
+  :publisher: Blue Ribbon Books
+  :year: 1988
+- :id: 22021
+  :title: Room
+  :author: Damian Gulgowski, Hal Nitzsche
+  :genre: Realistic fiction
+  :publisher: Taylor & Francis
+  :year: 2015
+- :id: 21794
+  :title: Judgment at Nuremberg
+  :author: Jeffery Leuschke PhD, Miss Bok Barrows, Frederick Klocko CPA, Era Hodkiewicz
+  :genre: Reference book
+  :publisher: Voyager Books
+  :year: 2001
+- :id: 21450
+  :title: Braveheart
+  :author: Candis Ledner Sr.
+  :genre: Horror
+  :publisher: Darakwon Press
+  :year: 2020
+- :id: 21475
+  :title: The Moving Toyshop
+  :author: Rep. Vern Turcotte
+  :genre: Historical fiction
+  :publisher: Manning Publications
+  :year: 1952
+- :id: 21985
+  :title: Death Be Not Proud
+  :author: Anton Toy, Veronique Carter
+  :genre: Metafiction
+  :publisher: Imperial War Museum
+  :year: 1996
+- :id: 21722
+  :title: Lock, Stock and Two Smoking Barrels
+  :author: Prof. Remedios Powlowski
+  :genre: Fable
+  :publisher: Kodansha
+  :year: 2019
+- :id: 21673
+  :title: Interstellar
+  :author: Elias O'Kon
+  :genre: Fairy tale
+  :publisher: Basic Books
+  :year: 2002
+- :id: 21635
+  :title: 'Commandos: Behind Enemy Lines'
+  :author: Hortencia Wunsch
+  :genre: Comic/Graphic Novel
+  :publisher: Fearless Books
+  :year: 2001
+- :id: 21371
+  :title: Pokémon LeafGreen
+  :author: Tamika Hayes, Julius Barrows
+  :genre: Folklore
+  :publisher: Oberon Books
+  :year: 1945
+- :id: 21429
+  :title: Happy Nation
+  :author: Karisa Kozey
+  :genre: Fable
+  :publisher: HarperTrophy
+  :year: 1997
+- :id: 21408
+  :title: The Third Man
+  :author: Rosann Wolf VM
+  :genre: Speech
+  :publisher: Pen and Sword Books
+  :year: 2005
+- :id: 21922
+  :title: Blithe Spirit
+  :author: Prof. Augustus Konopelski
+  :genre: Classic
+  :publisher: Paulist Press
+  :year: 2016
+- :id: 21930
+  :title: City Lights
+  :author: Sen. Geri Mann
+  :genre: Fantasy
+  :publisher: New Village Press
+  :year: 2003
+- :id: 21991
+  :title: 'Terminator 2: Judgment Day'
+  :author: Kasey Effertz
+  :genre: Fanfiction
+  :publisher: Cengage Learning
+  :year: 2017
+- :id: 22027
+  :title: The Daffodil Sky
+  :author: Hal Nitzsche, Damian Gulgowski
+  :genre: Crime/Detective
+  :publisher: FabJob
+  :year: 1840
+- :id: 21711
+  :title: High School Musical 2
+  :author: Mr. Dominque Becker
+  :genre: Comic/Graphic Novel
+  :publisher: Airiti Press
+  :year: 1990
+- :id: 21576
+  :title: Metal Gear Solid
+  :author: Lakesha McCullough
+  :genre: Metafiction
+  :publisher: Adis International
+  :year: 2017
+- :id: 21402
+  :title: The Grapes of Wrath
+  :author: Les Rogahn
+  :genre: Mythology
+  :publisher: Harper & Brothers
+  :year: 2020
+- :id: 21524
+  :title: Viva la Vida or Death and All His Friends
+  :author: Keeley Hand, Lela Emard, Coy Streich
+  :genre: Realistic fiction
+  :publisher: Oberon Books
+  :year: 2005
+- :id: 21557
+  :title: Transistor
+  :author: Josette Nikolaus DC, Antione O'Reilly
+  :genre: Mythology
+  :publisher: Chambers Harrap
+  :year: 1985
+- :id: 21433
+  :title: Halo Wars
+  :author: Odell Willms
+  :genre: Mythopoeia
+  :publisher: Ten Speed Press
+  :year: 1990
+- :id: 21309
+  :title: Beauty and the Beast
+  :author: Sue Stark
+  :genre: Textbook
+  :publisher: Atlas Press
+  :year: 1976
+- :id: 21444
+  :title: Battletoads
+  :author: Fletcher Upton
+  :genre: Tall tale
+  :publisher: Broadview Press
+  :year: 1989
+- :id: 21750
+  :title: 'Desperados 2: Cooper''s Revenge'
+  :author: Sean Kassulke, Lawrence Hauck
+  :genre: Crime/Detective
+  :publisher: Ian Allan Publishing
+  :year: 2014
+- :id: 21641
+  :title: "(What's the Story) Morning Glory?"
+  :author: Rep. Vern Turcotte
+  :genre: Short story
+  :publisher: Daedalus Publishing
+  :year: 2020
+- :id: 21453
+  :title: Such, Such Were the Joys
+  :author: Korey Rice V
+  :genre: Legend
+  :publisher: Ace Books
+  :year: 1996
+- :id: 21671
+  :title: After Many a Summer Dies the Swan
+  :author: Susannah Tremblay DC
+  :genre: Reference book
+  :publisher: Gefen Publishing House
+  :year: 1998
+- :id: 21325
+  :title: Lilies of the Field
+  :author: Lesli Bernier III
+  :genre: Metafiction
+  :publisher: Etruscan Press
+  :year: 1978
+- :id: 21923
+  :title: For Whom the Bell Tolls
+  :author: Floyd Cassin III, Adelia Lind
+  :genre: Horror
+  :publisher: Hackett Publishing Company
+  :year: 2010
+- :id: 21525
+  :title: Behold the Man
+  :author: Myrtis Corwin
+  :genre: Short story
+  :publisher: Hachette Book Group USA
+  :year: 2026
+- :id: 21427
+  :title: Nectar in a Sieve
+  :author: Jerrold Bogan LLD
+  :genre: Suspense/Thriller
+  :publisher: Brimstone Press
+  :year: 2015
+- :id: 21854
+  :title: All Passion Spent
+  :author: Caroyln Wilderman
+  :genre: Suspense/Thriller
+  :publisher: SAGE Publications
+  :year: 1990
+- :id: 21966
+  :title: The Moving Toyshop
+  :author: Rep. Vern Turcotte
+  :genre: Historical fiction
+  :publisher: D. Appleton & Company
+  :year: 1971
+- :id: 21919
+  :title: Raging Bull
+  :author: Albert Lehner Ret.
+  :genre: Fairy tale
+  :publisher: Mainstream Publishing
+  :year: 2016
+- :id: 21468
+  :title: The Daffodil Sky
+  :author: Hal Nitzsche, Damian Gulgowski
+  :genre: Crime/Detective
+  :publisher: Liberty Fund
+  :year: 1844
+- :id: 21999
+  :title: God of War
+  :author: Zackary Carter
+  :genre: Science fiction
+  :publisher: Tate Publishing & Enterprises
+  :year: 2000
+- :id: 21313
+  :title: Super Meat Boy
+  :author: Carin Christiansen
+  :genre: Crime/Detective
+  :publisher: McGraw-Hill Education
+  :year: 2013
+- :id: 21448
+  :title: Monty Python and the Holy Grail
+  :author: Ozzie Jast
+  :genre: Fable
+  :publisher: Hachette Book Group USA
+  :year: 2009
+- :id: 21884
+  :title: There Will Be Blood
+  :author: Angel Kuhic
+  :genre: Fantasy
+  :publisher: Kodansha
+  :year: 2024
+- :id: 21929
+  :title: Super Mario Bros. 3
+  :author: Mohamed Dach, Clyde Jacobson
+  :genre: Legend
+  :publisher: Fairview Press
+  :year: 2016
+- :id: 21339
+  :title: 'The Legend of Zelda: Breath of the Wild'
+  :author: Sen. Leta Berge
+  :genre: Biography/Autobiography
+  :publisher: Fairview Press
+  :year: 2024
+- :id: 21362
+  :title: "...Baby One More Time"
+  :author: Shanelle Upton
+  :genre: Fiction in verse
+  :publisher: Brill Publishers
+  :year: 2009
+- :id: 22009
+  :title: Bury My Heart at Wounded Knee
+  :author: Roland Murray, Selena Schroeder
+  :genre: Fanfiction
+  :publisher: Firebrand Books
+  :year: 2012
+- :id: 21798
+  :title: Pokémon X
+  :author: Reginia Weissnat
+  :genre: Textbook
+  :publisher: Unfinished Monument Press
+  :year: 2018
+- :id: 21749
+  :title: Metroid Prime
+  :author: Mellie Williamson
+  :genre: Mythopoeia
+  :publisher: Unfinished Monument Press
+  :year: 1977
+- :id: 21737
+  :title: 'HIStory: Past, Present and Future, Book I'
+  :author: Mrs. Jessie Brekke
+  :genre: Mythopoeia
+  :publisher: Emerald Group Publishing
+  :year: 2013
+- :id: 21562
+  :title: Fortnite
+  :author: Norberto Kohler, Moshe Wilderman
+  :genre: Metafiction
+  :publisher: Taylor & Francis
+  :year: 1983
+- :id: 21424
+  :title: By Grand Central Station I Sat Down and Wept
+  :author: Jeffery Leuschke PhD, Miss Bok Barrows, Era Hodkiewicz
+  :genre: Mythology
+  :publisher: Packt Publishing
+  :year: 2001
+- :id: 21504
+  :title: Rumours
+  :author: Elliot Monahan
+  :genre: Science fiction
+  :publisher: Mandrake Press
+  :year: 2000
+- :id: 21405
+  :title: La La Land
+  :author: Jermaine Wehner
+  :genre: Fanfiction
+  :publisher: Lion Hudson
+  :year: 2015
+- :id: 21410
+  :title: Of Human Bondage
+  :author: Earnest Glover
+  :genre: Textbook
+  :publisher: University of California Press
+  :year: 1993
+- :id: 21703
+  :title: All We Know Is Falling
+  :author: Albert Lehner Ret.
+  :genre: Folklore
+  :publisher: Hodder Headline
+  :year: 1983
+- :id: 21627
+  :title: 'Command & Conquer: Generals'
+  :author: Louanne Cruickshank, Lakenya Boyer IV
+  :genre: Essay
+  :publisher: Bloodaxe Books
+  :year: 1978
+- :id: 21701
+  :title: 'The Witcher 3: Wild Hunt'
+  :author: Marlon Casper
+  :genre: Mythopoeia
+  :publisher: Harvest House
+  :year: 2013
+- :id: 21887
+  :title: How to Train Your Dragon
+  :author: Renee Rogahn, Merrill Marks
+  :genre: Narrative nonfiction
+  :publisher: University of Akron Press
+  :year: 2003
+- :id: 21663
+  :title: Frequent Hearses
+  :author: Dr. Deb Kemmer
+  :genre: Essay
+  :publisher: Adis International
+  :year: 1984
+- :id: 21719
+  :title: Into the Wild
+  :author: Salvatore Mills
+  :genre: Speech
+  :publisher: Legend Books
+  :year: 2003
+- :id: 21330
+  :title: As I Lay Dying
+  :author: Sean Harvey III
+  :genre: Fanfiction
+  :publisher: Signet Books
+  :year: 2006
+- :id: 21979
+  :title: A Swiftly Tilting Planet
+  :author: Lonnie Hilpert
+  :genre: Fanfiction
+  :publisher: Signet Books
+  :year: 1977
+- :id: 21391
+  :title: Portal
+  :author: Josue Grady
+  :genre: Metafiction
+  :publisher: Focal Press
+  :year: 2012
+- :id: 21769
+  :title: Team Fortress Classic
+  :author: Roman Koss
+  :genre: Humor
+  :publisher: Breslov Research Institute
+  :year: 2017
+- :id: 21945
+  :title: The Monkey's Raincoat
+  :author: Zachary Ryan
+  :genre: Tall tale
+  :publisher: Charles Scribner's Sons
+  :year: 2018
+- :id: 21762
+  :title: Cabbages and Kings
+  :author: Joseph Raynor, Ja Ankunding II, Franklyn Stokes VM
+  :genre: Fiction narrative
+  :publisher: Secker & Warburg
+  :year: 2024
+- :id: 21889
+  :title: Diablo
+  :author: Cristin Deckow III
+  :genre: Science fiction
+  :publisher: Blackstaff Press
+  :year: 1986
+- :id: 21670
+  :title: 'The Legend of Zelda: Skyward Sword'
+  :author: Klara Runolfsdottir Sr., Kirk Treutel
+  :genre: Historical fiction
+  :publisher: Hawthorne Books
+  :year: 2019
+- :id: 21928
+  :title: Brothers in Arms
+  :author: Fletcher Upton
+  :genre: Science fiction
+  :publisher: Borgo Press
+  :year: 2005
+- :id: 21438
+  :title: Seven Samurai
+  :author: Jaleesa Breitenberg DVM
+  :genre: Realistic fiction
+  :publisher: Atlas Press
+  :year: 2008
+- :id: 21335
+  :title: The General
+  :author: Msgr. Mohammed Buckridge, Lilla Gislason DC, Catarina Gleason
+  :genre: Science fiction
+  :publisher: City Lights Publishers
+  :year: 2014
+- :id: 21389
+  :title: Confessions
+  :author: Timothy Murazik
+  :genre: Science fiction
+  :publisher: Left Book Club
+  :year: 1996
+- :id: 21698
+  :title: Paris, Texas
+  :author: Sen. Geri Mann
+  :genre: Mythopoeia
+  :publisher: Mark Batty Publisher
+  :year: 2007
+- :id: 21823
+  :title: The Grand Budapest Hotel
+  :author: Era Hodkiewicz, Miss Bok Barrows, Jeffery Leuschke PhD
+  :genre: Fable
+  :publisher: Allen Ltd
+  :year: 1985
+- :id: 21409
+  :title: Great Work of Time
+  :author: Laronda Kuhn
+  :genre: Crime/Detective
+  :publisher: HarperPrism
+  :year: 2012
+- :id: 21962
+  :title: 'Command & Conquer: Red Alert 2 - Yuris Revenge'
+  :author: Kylee Smith
+  :genre: Fiction narrative
+  :publisher: Pavilion Books
+  :year: 1997
+- :id: 21705
+  :title: Unforgiven
+  :author: Kizzie Purdy
+  :genre: Mystery
+  :publisher: Ladybird Books
+  :year: 2001
+- :id: 21811
+  :title: Day of Defeat
+  :author: Louanne Cruickshank, Lakenya Boyer IV
+  :genre: Fable
+  :publisher: Tarpaulin Sky Press
+  :year: 2015
+- :id: 21724
+  :title: The Doors of Perception
+  :author: Amos Romaguera Jr.
+  :genre: Horror
+  :publisher: Etruscan Press
+  :year: 2012
+- :id: 21590
+  :title: No Jacket Required
+  :author: Kristeen Kessler CPA
+  :genre: Fiction in verse
+  :publisher: Libertas Academica
+  :year: 2002
+- :id: 21544
+  :title: Luigi's Mansion
+  :author: Ria Senger
+  :genre: Legend
+  :publisher: George Routledge & Sons
+  :year: 1999
+- :id: 21478
+  :title: The Moon by Night
+  :author: Frederick Klocko CPA, Era Hodkiewicz, Jeffery Leuschke PhD, Miss Bok Barrows
+  :genre: Historical fiction
+  :publisher: Unfinished Monument Press
+  :year: 2000
+- :id: 21804
+  :title: 'Vampire: The Masquerade – Bloodlines'
+  :author: Frederick Klocko CPA
+  :genre: Essay
+  :publisher: Candlewick Press
+  :year: 1986
+- :id: 21829
+  :title: 'Sunrise: A Song of Two Humans'
+  :author: Darius Mohr, Miss Jesus Pfannerstill, Kevin Mayer, Kimberely Kutch
+  :genre: Horror
+  :publisher: Andrews McMeel Publishing
+  :year: 1989
+- :id: 21479
+  :title: In Death Ground
+  :author: Garth Marvin
+  :genre: Fantasy
+  :publisher: Dalkey Archive Press
+  :year: 1977
+- :id: 21473
+  :title: A Beautiful Mind
+  :author: Kevin Mayer, Kimberely Kutch, Darius Mohr
+  :genre: Science fiction
+  :publisher: Bison Books
+  :year: 2006
+- :id: 21661
+  :title: Grave of the Fireflies
+  :author: Guadalupe Batz Ret., Malorie Glover, Paula Rolfson
+  :genre: Reference book
+  :publisher: Harvard University Press
+  :year: 2010
+- :id: 21911
+  :title: Many Waters
+  :author: Brandi Cole
+  :genre: Fable
+  :publisher: Chambers Harrap
+  :year: 1966
+- :id: 21304
+  :title: Brothers in Arms
+  :author: Fletcher Upton
+  :genre: Science fiction
+  :publisher: Library of America
+  :year: 2002
+- :id: 21932
+  :title: Toy Story 2
+  :author: Jeffry Nolan Ret.
+  :genre: Comic/Graphic Novel
+  :publisher: Eel Pie Publishing
+  :year: 2012
+- :id: 21960
+  :title: Dungeon Keeper
+  :author: Les Rogahn
+  :genre: Mythopoeia
+  :publisher: Blackie and Son Limited
+  :year: 1970
+- :id: 21547
+  :title: Paths of Glory
+  :author: Donovan Bins
+  :genre: Mythopoeia
+  :publisher: Bloomsbury Publishing Plc
+  :year: -1
+- :id: 21718
+  :title: Lemonade
+  :author: Glenna Huel, Enrique Gislason
+  :genre: Fiction narrative
+  :publisher: Dalkey Archive Press
+  :year: 2018
+- :id: 21839
+  :title: The Good, the Bad and the Ugly
+  :author: Tory Dare V
+  :genre: Textbook
+  :publisher: Academic Press
+  :year: 1856
+- :id: 21713
+  :title: Fargo
+  :author: Mohamed Dach, Clyde Jacobson
+  :genre: Biography/Autobiography
+  :publisher: Bantam Books
+  :year: 2020
+- :id: 21878
+  :title: Midnight Memories
+  :author: The Hon. Kylee Rempel
+  :genre: Speech
+  :publisher: Elsevier
+  :year: 2003
+- :id: 21729
+  :title: Once Upon a Time in the West
+  :author: Edith Barrows
+  :genre: Suspense/Thriller
+  :publisher: Shire Books
+  :year: 1989
+- :id: 21356
+  :title: An Instant In The Wind
+  :author: Kristeen Kessler CPA
+  :genre: Short story
+  :publisher: Tarpaulin Sky Press
+  :year: 2022
+- :id: 21363
+  :title: Songs About Jane
+  :author: Jermaine Wehner
+  :genre: Mystery
+  :publisher: Hay House
+  :year: 1995
+- :id: 21558
+  :title: 'Halo 3: ODST'
+  :author: Dominque Fisher, Leigh Bednar
+  :genre: Fairy tale
+  :publisher: Ten Speed Press
+  :year: 2019
+- :id: 21896
+  :title: 'Half-Life 2: Lost Coast'
+  :author: Albert Lehner Ret.
+  :genre: Science fiction
+  :publisher: Earthscan
+  :year: 1984
+- :id: 21626
+  :title: 'The Witcher 2: Assassins of Kings'
+  :author: Joe Schultz
+  :genre: Legend
+  :publisher: Zed Books
+  :year: 1979
+- :id: 21394
+  :title: It Happened One Night
+  :author: Cruz Abshire MD
+  :genre: Mystery
+  :publisher: DAW Books
+  :year: 1982
+- :id: 21970
+  :title: Prisoners
+  :author: Yuette Parker
+  :genre: Fiction narrative
+  :publisher: Scholastic Press
+  :year: 2009
+- :id: 21496
+  :title: Before Sunrise
+  :author: Boris Schowalter CPA
+  :genre: Mythopoeia
+  :publisher: Hackett Publishing Company
+  :year: 1981
+- :id: 21620
+  :title: The Apartment
+  :author: Lonnie Hilpert
+  :genre: Historical fiction
+  :publisher: Horizon Scientific Press
+  :year: 2009
+- :id: 21736
+  :title: F.E.A.R.
+  :author: Kylee Smith
+  :genre: Biography/Autobiography
+  :publisher: Atlas Press
+  :year: 1992
+- :id: 21480
+  :title: Nine Coaches Waiting
+  :author: Susannah Tremblay DC
+  :genre: Speech
+  :publisher: Black Dog Publishing
+  :year: 1957
+- :id: 21329
+  :title: 'WarioWare: Smooth Moves'
+  :author: Sean Harvey III
+  :genre: Fiction in verse
+  :publisher: Verso Books
+  :year: 1951
+- :id: 21555
+  :title: The Moving Finger
+  :author: Alysa Pouros Esq., Amb. Amberly Beatty
+  :genre: Fiction narrative
+  :publisher: Harper & Brothers
+  :year: 2015
+- :id: 21499
+  :title: Crash Bandicoot
+  :author: Allan Dickinson
+  :genre: Fairy tale
+  :publisher: David & Charles
+  :year: 2005
+- :id: 21308
+  :title: 'Animal Crossing: City Folk'
+  :author: Sonny Bogan
+  :genre: Fable
+  :publisher: Parragon
+  :year: 2000
+- :id: 21900
+  :title: 'Star Wars: Episode III – Revenge of the Sith'
+  :author: Dr. Emmaline Ritchie
+  :genre: Folklore
+  :publisher: Black Sparrow Books
+  :year: 2025
+- :id: 21592
+  :title: Pokémon Red
+  :author: Alysa Pouros Esq.
+  :genre: Speech
+  :publisher: Blackstaff Press
+  :year: 1999
+- :id: 21706
+  :title: The Road Less Traveled
+  :author: Clyde Jacobson, Jerald Raynor
+  :genre: Crime/Detective
+  :publisher: Harlequin Enterprises Ltd
+  :year: 2017
+- :id: 21849
+  :title: Dance Dance Dance
+  :author: Yuette Parker
+  :genre: Legend
+  :publisher: Breslov Research Institute
+  :year: 1837
+- :id: 21754
+  :title: When the Green Woods Laugh
+  :author: Beatris Upton
+  :genre: Humor
+  :publisher: ECW Press
+  :year: 2001
+- :id: 21836
+  :title: Thriller
+  :author: Benjamin Mills
+  :genre: Comic/Graphic Novel
+  :publisher: HarperCollins
+  :year: 2025
+- :id: 21748
+  :title: Abbey Road
+  :author: Amos Romaguera Jr.
+  :genre: Fiction in verse
+  :publisher: Barrie & Jenkins
+  :year: 1995
+- :id: 21909
+  :title: The Dark Side of the Moon
+  :author: Beverly McDermott, Pedro Bradtke
+  :genre: Tall tale
+  :publisher: Virago Press
+  :year: 1995
+- :id: 21645
+  :title: Hands All Over
+  :author: Travis Von
+  :genre: Fantasy
+  :publisher: Harvest House
+  :year: 2018
+- :id: 21561
+  :title: Eternal Sunshine of the Spotless Mind
+  :author: Catarina Gleason, Lilla Gislason DC, Msgr. Mohammed Buckridge
+  :genre: Biography/Autobiography
+  :publisher: Liberty Fund
+  :year: 1859
+- :id: 21708
+  :title: Infinite Jest
+  :author: Lawrence Hauck
+  :genre: Reference book
+  :publisher: Chatto and Windus
+  :year: 1987
+- :id: 21954
+  :title: The Big Lebowski
+  :author: Ted Rutherford
+  :genre: Fable
+  :publisher: ''
+  :year: 1977
+- :id: 21505
+  :title: 'Monster Hunter: World'
+  :author: Sook Halvorson
+  :genre: Historical fiction
+  :publisher: Ten Speed Press
+  :year: 2018
+- :id: 21466
+  :title: Saturday Night Fever
+  :author: Frederick Klocko CPA
+  :genre: Metafiction
+  :publisher: Allen Ltd
+  :year: 1870
+- :id: 21344
+  :title: The Marshall Mathers LP
+  :author: Rossana Cruickshank
+  :genre: Horror
+  :publisher: Koren Publishers Jerusalem
+  :year: 1978
+- :id: 21527
+  :title: Brandy of the Damned
+  :author: Amb. Amberly Beatty
+  :genre: Comic/Graphic Novel
+  :publisher: Tartarus Press
+  :year: 2014
+- :id: 21892
+  :title: The Last Temptation
+  :author: Vernice Emard, Dylan Upton, Fredda Brekke
+  :genre: Biography/Autobiography
+  :publisher: Da Capo Press
+  :year: 1996
+- :id: 21506
+  :title: Vile Bodies
+  :author: Bobbie Bernier
+  :genre: Essay
+  :publisher: Vintage Books
+  :year: 1978
+- :id: 21976
+  :title: Hacksaw Ridge
+  :author: Rico Zemlak
+  :genre: Comic/Graphic Novel
+  :publisher: Bantam Books
+  :year: 2009
+- :id: 21710
+  :title: Catch Me If You Can
+  :author: Ms. Kami Prosacco
+  :genre: Fable
+  :publisher: Random House
+  :year: 2002
+- :id: 22025
+  :title: 'The Lord of the Rings: The Return of the King'
+  :author: Joseph Raynor, Ja Ankunding II
+  :genre: Realistic fiction
+  :publisher: Allen Ltd
+  :year: 2019
+- :id: 21305
+  :title: Intouchables
+  :author: Jae Bogisich
+  :genre: Speech
+  :publisher: New Village Press
+  :year: 2024
+- :id: 21609
+  :title: The Kid
+  :author: Julius Barrows, Tamika Hayes
+  :genre: Mythopoeia
+  :publisher: ''
+  :year: 1987
+- :id: 21540
+  :title: Bridge over Troubled Water
+  :author: Kimberely Kutch, Darius Mohr, Kevin Mayer, Alina Collier Esq.
+  :genre: Science fiction
+  :publisher: Belknap Press
+  :year: 2016
+- :id: 21863
+  :title: Lawrence of Arabia
+  :author: Elmer Parker, Mireya Schroeder
+  :genre: Folklore
+  :publisher: " "
+  :year: 2023
+- :id: 21602
+  :title: 'Banjo-Kazooie: Nuts & Bolts'
+  :author: Pres. Donya West
+  :genre: Textbook
+  :publisher: Seagull Books
+  :year: 1838
+- :id: 21510
+  :title: Mother Night
+  :author: Jaleesa Breitenberg DVM
+  :genre: Mythopoeia
+  :publisher: HarperPrism
+  :year: 2017
+- :id: 21303
+  :title: Spirited Away
+  :author: Josette Nikolaus DC
+  :genre: Metafiction
+  :publisher: BBC Books
+  :year: 'NULL'
+- :id: 21591
+  :title: No Longer at Ease
+  :author: Rev. Alix Langworth
+  :genre: Classic
+  :publisher: Palgrave Macmillan
+  :year: 1995
+- :id: 21835
+  :title: Mass Effect 3
+  :author: Johnny Russel
+  :genre: Metafiction
+  :publisher: Hackett Publishing Company
+  :year: 2006
+- :id: 21582
+  :title: Have His Carcase
+  :author: Marlin Kuvalis
+  :genre: Mythopoeia
+  :publisher: Andrews McMeel Publishing
+  :year: 1993
+- :id: 21358
+  :title: Max Payne
+  :author: Boris Schowalter CPA
+  :genre: Mystery
+  :publisher: G. P. Putnam's Sons
+  :year: 1976
+- :id: 21879
+  :title: Absalom, Absalom!
+  :author: Lawrence Hauck
+  :genre: Classic
+  :publisher: Ballantine Books
+  :year: 1997
+- :id: 21553
+  :title: Boston
+  :author: Sean Kassulke
+  :genre: Historical fiction
+  :publisher: Ignatius Press
+  :year:
+- :id: 21518
+  :title: 'Star Wars: Episode V - The Empire Strikes Back'
+  :author: Sook Halvorson
+  :genre: Mythopoeia
+  :publisher: Earthscan
+  :year: 1997
+- :id: 21494
+  :title: Pokémon White 2
+  :author: Antonio Lindgren
+  :genre: Fiction narrative
+  :publisher: Broadview Press
+  :year: 2016
+- :id: 21461
+  :title: Little Hands Clapping
+  :author: Beverly McDermott, Pedro Bradtke
+  :genre: Historical fiction
+  :publisher: Edupedia Publications
+  :year: 2002
+- :id: 21797
+  :title: Just Cause
+  :author: Msgr. Leslie McClure
+  :genre: Essay
+  :publisher: Marion Boyars Publishers
+  :year: 1977
+- :id: 22007
+  :title: Civilization IV
+  :author: Ambrose Ankunding
+  :genre: Legend
+  :publisher: Flame Tree Publishing
+  :year: 1980
+- :id: 21516
+  :title: Such, Such Were the Joys
+  :author: Korey Rice V
+  :genre: Legend
+  :publisher: Liberty Fund
+  :year: 2011
+- :id: 21368
+  :title: The Proper Study
+  :author: Sen. Geri Mann
+  :genre: Speech
+  :publisher: Mark Batty Publisher
+  :year: 1998
+- :id: 21393
+  :title: Minecraft
+  :author: Keeley Hand, Lela Emard, Coy Streich
+  :genre: Legend
+  :publisher: Gefen Publishing House
+  :year: 1997
+- :id: 21634
+  :title: 'Commandos 2: Men of Courage'
+  :author: Terrance Schneider
+  :genre: Humor
+  :publisher: Harper & Row
+  :year: 1989
+- :id: 21725
+  :title: Breakfast in America
+  :author: Albert Lehner Ret.
+  :genre: Biography/Autobiography
+  :publisher: Packt Publishing
+  :year: '0'
+- :id: 21323
+  :title: Pokémon Platinum
+  :author: Sean Kassulke
+  :genre: Metafiction
+  :publisher: Blackwell Publishing
+  :year: 2018
+- :id: 22022
+  :title: The Needle's Eye
+  :author: Sen. Amber Roberts, Prof. Augustus Konopelski
+  :genre: Classic
+  :publisher: Carlton Books
+  :year: 1980
+- :id: 21740
+  :title: 'Metroid Prime 3: Corruption'
+  :author: Susannah Tremblay DC
+  :genre: Speech
+  :publisher: Focal Press
+  :year: 1995
+- :id: 21615
+  :title: Crysis 2
+  :author: Kristeen Kessler CPA
+  :genre: Mythology
+  :publisher: André Deutsch
+  :year: 1992
+- :id: 21571
+  :title: System Shock
+  :author: Tomasa Kozey
+  :genre: Legend
+  :publisher: Medknow Publications
+  :year: 1995
+- :id: 21965
+  :title: Super Mario Bros.
+  :author: Floyd Cassin III
+  :genre: Science fiction
+  :publisher: "\t"
+  :year: 2023
+- :id: 22012
+  :title: Falling into You
+  :author: Lela Emard, Coy Streich, Keeley Hand
+  :genre: Western
+  :publisher: ''
+  :year: 1890
+- :id: 21611
+  :title: Time of our Darkness
+  :author: Mr. Dominque Becker
+  :genre: Tall tale
+  :publisher: Airiti Press
+  :year: 1984
+- :id: 21452
+  :title: City of God
+  :author: Antonio Lindgren
+  :genre: Fairy tale
+  :publisher: Gay Men's Press
+  :year: 1997
+- :id: 21781
+  :title: Sgt. Pepper's Lonely Hearts Club Band
+  :author: Lesli Bernier III
+  :genre: Narrative nonfiction
+  :publisher: Orchard Books
+  :year: 1937
+- :id: 21412
+  :title: Super Smash Bros. Ultimate
+  :author: Korey Rice V
+  :genre: Speech
+  :publisher: Barrie & Jenkins
+  :year: 1992
+- :id: 22013
+  :title: Jurassic Park
+  :author: The Hon. Kylee Rempel
+  :genre: Fantasy
+  :publisher: Target Books
+  :year: 1983
+- :id: 21893
+  :title: The Curious Incident of the Dog in the Night-Time
+  :author: Antione O'Reilly
+  :genre: Fantasy
+  :publisher: DAW Books
+  :year: 2016
+- :id: 21377
+  :title: The Needle's Eye
+  :author: Sen. Amber Roberts, Prof. Augustus Konopelski
+  :genre: Classic
+  :publisher: Hodder & Stoughton
+  :year: 1982
+- :id: 21421
+  :title: Many Waters
+  :author: Brandi Cole
+  :genre: Fable
+  :publisher: Hackett Publishing Company
+  :year: 1982
+- :id: 22006
+  :title: The Green Mile
+  :author: Benedict Steuber, Jon Hettinger DVM, Randal McCullough
+  :genre: Mythology
+  :publisher: Hawthorne Books
+  :year: 1988
+- :id: 21993
+  :title: Backstreet Boys
+  :author: Sook Halvorson
+  :genre: Crime/Detective
+  :publisher: Virgin Publishing
+  :year: 1980
+- :id: 21579
+  :title: I Will Fear No Evil
+  :author: Farah Rohan II
+  :genre: Reference book
+  :publisher: Bloomsbury Publishing Plc
+  :year: 2022
+- :id: 21567
+  :title: Dota 2
+  :author: Yuette Parker
+  :genre: Textbook
+  :publisher: Kensington Books
+  :year: 1988
+- :id: 21342
+  :title: Millennium
+  :author: Deborah Grant, Shanti Hand, Roman Osinski Sr.
+  :genre: Legend
+  :publisher: Firebrand Books
+  :year: 2010
+- :id: 22030
+  :title: 'Counter-Strike: Global Offensive'
+  :author: Franklyn Stokes VM
+  :genre: Folklore
+  :publisher: Canongate Books
+  :year: 2009
+- :id: 22032
+  :title: Arms and the Man
+  :author: Carroll Schultz
+  :genre: Historical fiction
+  :publisher: Blackie and Son Limited
+  :year: 2005
+- :id: 21898
+  :title: The Gold Rush
+  :author: Elias O'Kon
+  :genre: Comic/Graphic Novel
+  :publisher: Marion Boyars Publishers
+  :year: 1939
+- :id: 21511
+  :title: Dunkirk
+  :author: Mrs. Jessie Brekke
+  :genre: Folklore
+  :publisher: Golden Cockerel Press
+  :year: 1988
+- :id: 21299
+  :title: Dangerous
+  :author: Josette Nikolaus DC
+  :genre: Legend
+  :publisher: Bantam Spectra
+  :year: 2025
+- :id: 21437
+  :title: Françoise Sagan
+  :author: Shirlene Toy
+  :genre: Science fiction
+  :publisher: Paulist Press
+  :year: 2015
+- :id: 21664
+  :title: Wolfenstein 3D
+  :author: Elvina Nader
+  :genre: Biography/Autobiography
+  :publisher: UCL Press
+  :year: 2001
+- :id: 21832
+  :title: Alone on a Wide, Wide Sea
+  :author: Pedro Bradtke
+  :genre: Mystery
+  :publisher: Basic Books
+  :year: 2006
+- :id: 21526
+  :title: To Kill a Mockingbird
+  :author: Roland Murray
+  :genre: Fanfiction
+  :publisher: Paulist Press
+  :year: 1979
+- :id: 21940
+  :title: In a Dry Season
+  :author: Fletcher Upton
+  :genre: Horror
+  :publisher: D. Reidel
+  :year: 2010
+- :id: 21992
+  :title: Fortnite
+  :author: Norberto Kohler, Moshe Wilderman
+  :genre: Metafiction
+  :publisher: G-Unit Books
+  :year: 1976
+- :id: 21451
+  :title: L.A. Noire
+  :author: Billy Dare
+  :genre: Fairy tale
+  :publisher: Hay House
+  :year: 1985
+- :id: 21949
+  :title: Can't Slow Down
+  :author: Billie Ernser, Lamar Kautzer, Raymundo Aufderhar, Isabelle Boehm
+  :genre: Fiction in verse
+  :publisher: Kogan Page
+  :year: 1996
+- :id: 21340
+  :title: BioShock
+  :author: Benjamin Mills
+  :genre: Comic/Graphic Novel
+  :publisher: Manning Publications
+  :year: 2011
+- :id: 21947
+  :title: 'Halo: Reach'
+  :author: Sean Harvey III, Glenna Huel, Enrique Gislason
+  :genre: Science fiction
+  :publisher: Pathfinder Press
+  :year: 2000
+- :id: 21631
+  :title: Super Mario Sunshine
+  :author: Julia Bartoletti
+  :genre: Fiction narrative
+  :publisher: Parachute Publishing
+  :year: 1978
+- :id: 21320
+  :title: Back to the Future
+  :author: Anton Moen
+  :genre: Science fiction
+  :publisher: DAW Books
+  :year: 2007
+- :id: 22053
+  :title: A Farewell to Arms
+  :author: Antione O'Reilly, Josette Nikolaus DC
+  :genre: Essay
+  :publisher: Tarpaulin Sky Press
+  :year: 2016
+- :id: 21327
+  :title: 'Animal Crossing: New Leaf'
+  :author: Trevor Turner
+  :genre: Fiction in verse
+  :publisher: Library of America
+  :year: 2005
+- :id: 21817
+  :title: The Grand Budapest Hotel
+  :author: Era Hodkiewicz, Miss Bok Barrows, Jeffery Leuschke PhD
+  :genre: Fable
+  :publisher: Godwit Press
+  :year: 1977
+- :id: 21420
+  :title: The Man Within
+  :author: Franklyn Stokes VM
+  :genre: Tall tale
+  :publisher: Taylor & Francis
+  :year: 2019
+- :id: 21625
+  :title: The Wind's Twelve Quarters
+  :author: Hue Ondricka I, Yesenia Raynor DDS, Lewis Boehm, Rosalva Beer
+  :genre: Fantasy
+  :publisher: Secker & Warburg
+  :year: 1880
+- :id: 21845
+  :title: Cross Road
+  :author: Phil Hettinger Ret., Verna Skiles
+  :genre: Speech
+  :publisher: J. M. Dent
+  :year: 1986
+- :id: 21447
+  :title: This Lime Tree Bower
+  :author: Blair Casper, Ms. Rodger Hoppe
+  :genre: Horror
+  :publisher: Applewood Books
+  :year: 2005
+- :id: 21314
+  :title: Unplugged
+  :author: Randal McCullough, Benedict Steuber, Jon Hettinger DVM
+  :genre: Fiction narrative
+  :publisher: Applewood Books
+  :year: 1978
+- :id: 21581
+  :title: Casablanca
+  :author: Veronique Carter
+  :genre: Essay
+  :publisher: Mandrake Press
+  :year: 1986
+- :id: 21826
+  :title: Star Wars
+  :author: Moshe Wilderman, Norberto Kohler
+  :genre: Fanfiction
+  :publisher: Bison Books
+  :year: 2023
+- :id: 21353
+  :title: The Shawshank Redemption
+  :author: Amb. Amberly Beatty, Alysa Pouros Esq.
+  :genre: Biography/Autobiography
+  :publisher: Ian Allan Publishing
+  :year: 1982
+- :id: 21622
+  :title: The Way of All Flesh
+  :author: Guadalupe Batz Ret., Paula Rolfson, Kristeen Kessler CPA, Malorie Glover
+  :genre: Folklore
+  :publisher: Nauka
+  :year: 2019
+- :id: 21757
+  :title: Rosemary Sutcliff
+  :author: Fredda Brekke, Vernice Emard, Dylan Upton
+  :genre: Essay
+  :publisher: Ziff Davis Media
+  :year: 2008
+- :id: 21984
+  :title: 'Star Wars: Episode VI - Return of the Jedi'
+  :author: Kristeen Kessler CPA
+  :genre: Realistic fiction
+  :publisher: Breslov Research Institute
+  :year: 2000
+- :id: 21958
+  :title: The Immaculate Collection
+  :author: Timmy Corwin
+  :genre: Fiction in verse
+  :publisher: Charles Scribner's Sons
+  :year: 2022
+- :id: 21865
+  :title: Blade Runner 2049
+  :author: Odell Willms
+  :genre: Mythology
+  :publisher: Mainstream Publishing
+  :year: 1988
+- :id: 21982
+  :title: 'Batman: Arkham Asylum'
+  :author: Kirsten Schaefer
+  :genre: Textbook
+  :publisher: Fearless Books
+  :year: 1978
+- :id: 21425
+  :title: Whitney Houston
+  :author: Angel Kuhic
+  :genre: Science fiction
+  :publisher: Banner of Truth Trust
+  :year: 2023
+- :id: 21931
+  :title: Whitney
+  :author: Hortencia Wunsch
+  :genre: Legend
+  :publisher: Tachyon Publications
+  :year: 2024
+- :id: 21463
+  :title: 'Commandos: Beyond the Call of Duty'
+  :author: Miss Wade Lebsack
+  :genre: Comic/Graphic Novel
+  :publisher: Orchard Books
+  :year: 1997
+- :id: 22024
+  :title: 'Animal Crossing: Wild World'
+  :author: Lesli Bernier III
+  :genre: Metafiction
+  :publisher: Cambridge University Press
+  :year: 1985
+- :id: 21876
+  :title: The Waste Land
+  :author: Mitch Gusikowski
+  :genre: Historical fiction
+  :publisher: Mandrake of Oxford
+  :year: 2017
+- :id: 22047
+  :title: The Grand Budapest Hotel
+  :author: Era Hodkiewicz, Miss Bok Barrows, Jeffery Leuschke PhD
+  :genre: Fable
+  :publisher: Taylor & Francis
+  :year: 1993
+- :id: 21681
+  :title: Katamari Damacy
+  :author: Mitch Gusikowski, Farah Rohan II
+  :genre: Metafiction
+  :publisher: DAW Books
+  :year: 2016
+- :id: 21578
+  :title: North by Northwest
+  :author: Billie Ernser
+  :genre: Fanfiction
+  :publisher: Ace Books
+  :year: '0'
+- :id: 21445
+  :title: 'Command & Conquer: Red Alert 2'
+  :author: Mr. Dominque Becker
+  :genre: Humor
+  :publisher: Canongate Books
+  :year: 2026
+- :id: 21345
+  :title: '2001: A Space Odyssey'
+  :author: Mr. Dominque Becker
+  :genre: Suspense/Thriller
+  :publisher: SAGE Publications
+  :year: 2022
+- :id: 21348
+  :title: Seven Samurai
+  :author: Jaleesa Breitenberg DVM
+  :genre: Realistic fiction
+  :publisher: Ignatius Press
+  :year: 2012
+- :id: 21758
+  :title: The Elephant Man
+  :author: Barb Lynch
+  :genre: Metafiction
+  :publisher: Haynes Manuals
+  :year: 1983
+- :id: 21801
+  :title: Nevermind
+  :author: Reginia Weissnat, Miss Wade Lebsack
+  :genre: Narrative nonfiction
+  :publisher: Velazquez Press
+  :year: 2000
+- :id: 21399
+  :title: 'Pokémon: Let''s Go Eevee!'
+  :author: Casey Bode
+  :genre: Comic/Graphic Novel
+  :publisher: Palgrave Macmillan
+  :year: 1999
+- :id: 21520
+  :title: Dirty Dancing
+  :author: Amb. Nannie Labadie
+  :genre: Legend
+  :publisher: Horizon Scientific Press
+  :year: 1994
+- :id: 21406
+  :title: Yoshi's Wooly World
+  :author: Dr. Emmaline Ritchie
+  :genre: Essay
+  :publisher: Sams Publishing
+  :year: 1987
+- :id: 21855
+  :title: Music Box
+  :author: Karisa Kozey
+  :genre: Western
+  :publisher: George H. Doran Company
+  :year: 1997
+- :id: 21668
+  :title: Civilization VI
+  :author: Kirk Treutel, Klara Runolfsdottir Sr., Lonnie Hilpert
+  :genre: Folklore
+  :publisher: Virago Press
+  :year: 1888
+- :id: 21500
+  :title: 'Command & Conquer: Rivals'
+  :author: The Hon. Kylee Rempel
+  :genre: Humor
+  :publisher: Dalkey Archive Press
+  :year: 2007
+- :id: 21813
+  :title: The Lives of Others
+  :author: Lawrence Hauck, Sean Kassulke
+  :genre: Folklore
+  :publisher: Burns & Oates
+  :year: 2001
+- :id: 21955
+  :title: Slippery When Wet
+  :author: Beverly McDermott
+  :genre: Fiction in verse
+  :publisher: Churchill Livingstone
+  :year: 2000
+- :id: 21738
+  :title: Goodfellas
+  :author: Shirlene Toy
+  :genre: Classic
+  :publisher: Parachute Publishing
+  :year: 2020
+- :id: 22016
+  :title: Terrible Swift Sword
+  :author: Louanne Cruickshank
+  :genre: Horror
+  :publisher: University of Michigan Press
+  :year: 1998
+- :id: 21636
+  :title: Gandhi
+  :author: Carin Christiansen
+  :genre: Narrative nonfiction
+  :publisher: Martinus Nijhoff Publishers
+  :year: 1967
+- :id: 21885
+  :title: 'Command & Conquer: Tiberian Sun'
+  :author: Amb. Amberly Beatty
+  :genre: Science fiction
+  :publisher: ''
+  :year: 1852
+- :id: 21528
+  :title: Once Upon a Time in America
+  :author: Lakesha McCullough
+  :genre: Realistic fiction
+  :publisher: Palgrave Macmillan
+  :year: ''
+- :id: 21789
+  :title: 'Call of Duty: Black Ops'
+  :author: Kirk Treutel, Klara Runolfsdottir Sr.
+  :genre: Textbook
+  :publisher: Gay Men's Press
+  :year: 1984
+- :id: 21994
+  :title: The Widening Gyre
+  :author: The Hon. Terence Klocko
+  :genre: Fable
+  :publisher: Butterworth-Heinemann
+  :year: 2001
+- :id: 21549
+  :title: Cinema Paradiso
+  :author: Miss Ward Farrell
+  :genre: Fantasy
+  :publisher: Pen and Sword Books
+  :year: 1980
+- :id: 22045
+  :title: Hotel Rwanda
+  :author: Ted Rutherford
+  :genre: Reference book
+  :publisher: Secker & Warburg
+  :year: 2025
+- :id: 21508
+  :title: The Golden Bowl
+  :author: Tomasa Kozey, The Hon. Kylee Rempel
+  :genre: Realistic fiction
+  :publisher: Gaspereau Press
+  :year: 2013
+- :id: 21556
+  :title: V for Vendetta
+  :author: Hal Nitzsche, Damian Gulgowski
+  :genre: Fantasy
+  :publisher: University of Akron Press
+  :year: 2010
+- :id: 21676
+  :title: Guitar Hero
+  :author: Miss Ward Farrell
+  :genre: Narrative nonfiction
+  :publisher: Library of America
+  :year: 1989
+- :id: 21983
+  :title: Brand New Eyes
+  :author: Lakenya Boyer IV
+  :genre: Mythopoeia
+  :publisher: Farrar, Straus & Giroux
+  :year: 2010
+- :id: 21414
+  :title: 'Star Wars: Episode I – The Phantom Menace'
+  :author: Carroll Schultz
+  :genre: Science fiction
+  :publisher: Pen and Sword Books
+  :year: 2002
+- :id: 21799
+  :title: 'Commandos: Strike Force'
+  :author: Elmer Parker
+  :genre: Narrative nonfiction
+  :publisher: Happy House
+  :year: 1994
+- :id: 21482
+  :title: Pokémon Moon
+  :author: Zackary Carter
+  :genre: Fiction in verse
+  :publisher: Candlewick Press
+  :year: 1978
+- :id: 21981
+  :title: Daydream
+  :author: Franklyn Stokes VM
+  :genre: Classic
+  :publisher: Blue Ribbon Books
+  :year: 1980
+- :id: 21755
+  :title: Starcraft
+  :author: Danilo Zieme
+  :genre: Science fiction
+  :publisher: Manning Publications
+  :year: 2015
+- :id: 21376
+  :title: Kirby's Epic Yarn
+  :author: Frederick Klocko CPA, Jeffery Leuschke PhD, Miss Bok Barrows, Era Hodkiewicz
+  :genre: Fanfiction
+  :publisher: Anova Books
+  :year: 2009
+- :id: 21943
+  :title: If I Forget Thee Jerusalem
+  :author: Wendell Zboncak
+  :genre: Fable
+  :publisher: United States Government Publishing Office
+  :year: 1979
+- :id: 21895
+  :title: The Heart Is Deceitful Above All Things
+  :author: Randal McCullough, Jon Hettinger DVM, Benedict Steuber
+  :genre: Comic/Graphic Novel
+  :publisher: Bantam Books
+  :year: 2000
+- :id: 21770
+  :title: Dwarf Fortress
+  :author: Zoila Christiansen
+  :genre: Fairy tale
+  :publisher: Basic Books
+  :year: 2003
+- :id: 21910
+  :title: The Sign
+  :author: Benjamin Mills
+  :genre: Comic/Graphic Novel
+  :publisher: Marshall Cavendish
+  :year: 1890
+- :id: 21916
+  :title: Crysis
+  :author: Dylan Upton, Fredda Brekke, Vernice Emard
+  :genre: Legend
+  :publisher: Peace Hill Press
+  :year: 1983
+- :id: 21812
+  :title: Civilization V
+  :author: Susannah Tremblay DC
+  :genre: Speech
+  :publisher: Mandrake Press
+  :year: 2000
+- :id: 21396
+  :title: Memento
+  :author: Barb Lynch
+  :genre: Comic/Graphic Novel
+  :publisher: Adis International
+  :year: 1992
+- :id: 21803
+  :title: Pokémon Blue
+  :author: Kristeen Kessler CPA, Malorie Glover, Guadalupe Batz Ret., Paula Rolfson
+  :genre: Classic
+  :publisher: Marshall Pickering
+  :year: 2026
+- :id: 21572
+  :title: 'Command & Conquer: Generals - Zero Hour'
+  :author: Cleo Predovic
+  :genre: Fiction in verse
+  :publisher: Godwit Press
+  :year: 2008
+- :id: 21650
+  :title: 'Hitman: Absolution'
+  :author: Zackary Carter, Nick Ziemann
+  :genre: Fable
+  :publisher: Focal Press
+  :year: 1975
+- :id: 21462
+  :title: The Moving Toyshop
+  :author: Rep. Vern Turcotte
+  :genre: Historical fiction
+  :publisher: Adis International
+  :year: 1976
+- :id: 21764
+  :title: Pokémon Sword
+  :author: Edmundo Oberbrunner, Amb. Elia Lebsack, Bernard Bayer
+  :genre: Textbook
+  :publisher: Fairview Press
+  :year: 2004
+- :id: 21503
+  :title: Halo 2
+  :author: Gonzalo Macejkovic
+  :genre: Mythology
+  :publisher: Schocken Books
+  :year: 2022
+- :id: 21841
+  :title: An Evil Cradling
+  :author: Lonnie Hilpert, Jae Bogisich
+  :genre: Fantasy
+  :publisher: HMSO
+  :year: 1984
+- :id: 21793
+  :title: Halo 4
+  :author: Amb. Elia Lebsack, Bernard Bayer, Edmundo Oberbrunner
+  :genre: Fable
+  :publisher: Candlewick Press
+  :year: 2005
+- :id: 21321
+  :title: 'Fallout: New Vegas'
+  :author: Rosann Wolf VM
+  :genre: Reference book
+  :publisher: Anova Books
+  :year: 2014
+- :id: 22017
+  :title: If Not Now, When?
+  :author: Brandi Cole
+  :genre: Fantasy
+  :publisher: St. Martin's Press
+  :year: 2010
+- :id: 21959
+  :title: Saving Private Ryan
+  :author: Mohamed Dach, Clyde Jacobson
+  :genre: Folklore
+  :publisher: Ziff Davis Media
+  :year: 1999
+- :id: 21488
+  :title: A Wednesday
+  :author: Selena Schroeder
+  :genre: Comic/Graphic Novel
+  :publisher: Charles Scribner's Sons
+  :year: 1994
+- :id: 21825
+  :title: The Thing
+  :author: Cleo Predovic
+  :genre: Science fiction
+  :publisher: Bloodaxe Books
+  :year: 1999
+- :id: 21573
+  :title: Vertigo
+  :author: Marlon Casper, Boyce Hoeger
+  :genre: Reference book
+  :publisher: Brill
+  :year: 2025
+- :id: 21322
+  :title: 'Call of Duty 4: Modern Warfare'
+  :author: Mohamed Dach
+  :genre: Fantasy
+  :publisher: Zed Books
+  :year: 1998
+- :id: 21483
+  :title: To Sail Beyond the Sunset
+  :author: Antonio Lindgren
+  :genre: Narrative nonfiction
+  :publisher: Boydell & Brewer
+  :year: 2005
+- :id: 21432
+  :title: Civilization III
+  :author: Jerrold Bogan LLD
+  :genre: Historical fiction
+  :publisher: Golden Cockerel Press
+  :year: 1977
+- :id: 21379
+  :title: American Beauty
+  :author: Prof. Remedios Powlowski
+  :genre: Western
+  :publisher: Secker & Warburg
+  :year: 2021
+- :id: 21487
+  :title: Kingdom Hearts II
+  :author: Rossana Cruickshank
+  :genre: Reference book
+  :publisher: Sams Publishing
+  :year: 1998
+- :id: 21666
+  :title: Pokémon Ultra Moon
+  :author: Kristeen Kessler CPA, Malorie Glover, Paula Rolfson, Guadalupe Batz Ret.
+  :genre: Fanfiction
+  :publisher: Pen and Sword Books
+  :year: 2015
+- :id: 21459
+  :title: Wii Sports
+  :author: Earnest Glover
+  :genre: Speech
+  :publisher: Random House
+  :year: 2017
+- :id: 21301
+  :title: Inside Out
+  :author: Jaleesa Breitenberg DVM
+  :genre: Metafiction
+  :publisher: Farrar, Straus & Giroux
+  :year: 2011
+- :id: 21894
+  :title: The Truman Show
+  :author: Jerald Raynor, Clyde Jacobson
+  :genre: Suspense/Thriller
+  :publisher: Eerdmans Publishing
+  :year: 2012
+- :id: 21957
+  :title: Consider the Lilies
+  :author: Trevor Turner
+  :genre: Science fiction
+  :publisher: Harcourt Assessment
+  :year: 1904
+- :id: 21697
+  :title: Psycho
+  :author: Leighann O'Connell
+  :genre: Tall tale
+  :publisher: Booktrope
+  :year: 2011
+- :id: 22054
+  :title: The Last of Us
+  :author: Roland Murray
+  :genre: Suspense/Thriller
+  :publisher: Taylor & Francis
+  :year: 1995
+- :id: 21690
+  :title: Pokémon Alpha Sapphire
+  :author: Mercedez Welch, Alphonso Gulgowski
+  :genre: Science fiction
+  :publisher: Harlequin Enterprises Ltd
+  :year: 1983
+- :id: 21674
+  :title: The Sun Also Rises
+  :author: Karisa Kozey
+  :genre: Classic
+  :publisher: Breslov Research Institute
+  :year: 2026
+- :id: 21352
+  :title: 'The Godfather: Part II'
+  :author: Miss Wade Lebsack
+  :genre: Suspense/Thriller
+  :publisher: Booktrope
+  :year: 1980
+- :id: 21474
+  :title: Day of the Tentacle
+  :author: Terrance Schneider
+  :genre: Western
+  :publisher: Adis International
+  :year: 1978
+- :id: 21862
+  :title: Pokémon Ruby
+  :author: Dr. Emmaline Ritchie, Moshe Wilderman, Norberto Kohler
+  :genre: Western
+  :publisher: Scholastic Press
+  :year: 1986
+- :id: 22037
+  :title: Million Dollar Baby
+  :author: Catarina Gleason, Msgr. Mohammed Buckridge, Lilla Gislason DC
+  :genre: Essay
+  :publisher: Burns & Oates
+  :year: 2007
+- :id: 21388
+  :title: Day of the Tentacle
+  :author: Terrance Schneider
+  :genre: Western
+  :publisher: Mascot Books
+  :year: 2006
+- :id: 21464
+  :title: The Line of Beauty
+  :author: Phil Hettinger Ret.
+  :genre: Fanfiction
+  :publisher: Salt Publishing
+  :year: 1996
+- :id: 21831
+  :title: Helldorado
+  :author: Laronda Kuhn
+  :genre: Narrative nonfiction
+  :publisher: Candlewick Press
+  :year: 1978
+- :id: 22033
+  :title: Heat
+  :author: Lela Emard, Keeley Hand, Coy Streich
+  :genre: Tall tale
+  :publisher: Parachute Publishing
+  :year: 1994
+- :id: 21814
+  :title: The Lion King
+  :author: Myrl Miller
+  :genre: Mystery
+  :publisher: Hodder Headline
+  :year: 1984
+- :id: 21548
+  :title: 'Shadow Tactics: Blade of the Shogun'
+  :author: Casey Bode
+  :genre: Comic/Graphic Novel
+  :publisher: Focal Press
+  :year: 1983
+- :id: 21990
+  :title: Fear and Trembling
+  :author: Ozzie Jast
+  :genre: Mystery
+  :publisher: University of Akron Press
+  :year: 2024
+- :id: 21842
+  :title: Dulce et Decorum Est
+  :author: Maura Kuvalis DC
+  :genre: Horror
+  :publisher: Ian Allan Publishing
+  :year: 2000
