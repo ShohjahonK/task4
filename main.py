@@ -8,7 +8,6 @@ import matplotlib.pyplot as plt
 import io
 import base64
 from dateutil import parser
-from matplotlib.lines import lineStyles
 
 
 def parse_date(date_str):
