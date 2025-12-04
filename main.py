@@ -1,4 +1,3 @@
-from fileinput import filename
 import pandas as pd
 import yaml
 import os
