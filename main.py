@@ -251,7 +251,7 @@ def generate_dashboard(metrics, folder_name):
 
 
 if __name__ == "__main__":
-    folders = ['Data/DATA2']
+    folders = ['Data/DATA3']
 
     for folder in folders:
         try:
